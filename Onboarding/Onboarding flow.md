@@ -13,3 +13,4 @@ This happy path exists because of the underlying rules that decide the next step
 The next node will preferably be the spouse of the last added node, if it's not available, it will be the current node's mother, and if not, the father. If none of these is available, the same rules will apply to the spouse of the current node. If it still can't find a valid next step, onboarding is over.
 
 Here's an example of the happy path:
+![[onboarding-happy-path.excalidraw]]

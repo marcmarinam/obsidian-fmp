@@ -11,11 +11,15 @@
             "id": "0c871154f8351e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Onboarding/Data available.md",
-                "mode": "source",
-                "source": false
+                "file": "Onboarding/Happy path.canvas",
+                "viewState": {
+                  "x": -454,
+                  "y": -233,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Happy path.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Happy path.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Data available.md"
+                "file": "Onboarding/Happy path.canvas"
               }
             }
           }
@@ -149,9 +153,9 @@
   },
   "active": "0c871154f8351e2b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2023-02-20.md",
+    "Onboarding/Happy path.canvas",
     "Onboarding/Data available.md",
+    "2023-02-20.md",
     "Onboarding/Onboarding overview.md",
     "Onboarding/Onboarding flow.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",

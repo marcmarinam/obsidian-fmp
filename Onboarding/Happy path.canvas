@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"50d96343b06d6a44","x":-420,"y":-443,"width":101,"height":60,"type":"text","text":"Mother"},
+		{"id":"683873ba84f7a9f0","x":-738,"y":-443,"width":96,"height":60,"type":"text","text":"Father"},
+		{"id":"6b984e5fe3385af8","x":-563,"y":-291,"width":68,"height":60,"type":"text","text":"You"}
+	],
+	"edges":[
+		{"id":"4e517b8332c703b5","fromNode":"6b984e5fe3385af8","fromSide":"top","toNode":"50d96343b06d6a44","toSide":"bottom"},
+		{"id":"84ad1dc9c548a476","fromNode":"50d96343b06d6a44","fromSide":"left","toNode":"683873ba84f7a9f0","toSide":"right"}
+	]
+}

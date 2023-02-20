@@ -15,4 +15,5 @@ The next node will preferably be the spouse of the last added node, if it's not 
 Here's an example of the happy path:
 ![[onboarding-happy-path.excalidraw]]
 
-Here's an example of an alternative path
+Here's an example of an alternative path:
+![[onboarding-alternative-path.excalidraw]]

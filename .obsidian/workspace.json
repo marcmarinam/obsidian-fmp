@@ -11,15 +11,11 @@
             "id": "0c871154f8351e2b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Onboarding/Happy path.canvas",
-                "viewState": {
-                  "x": -454,
-                  "y": -233,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Onboarding/Onboarding flow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Happy path.canvas",
+                "file": "Onboarding/Onboarding flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Happy path.canvas",
+                "file": "Onboarding/Onboarding flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Happy path.canvas"
+                "file": "Onboarding/Onboarding flow.md"
               }
             }
           }
@@ -154,10 +150,10 @@
   "active": "0c871154f8351e2b",
   "lastOpenFiles": [
     "Onboarding/Happy path.canvas",
+    "Onboarding/Onboarding flow.md",
+    "Onboarding/Onboarding overview.md",
     "Onboarding/Data available.md",
     "2023-02-20.md",
-    "Onboarding/Onboarding overview.md",
-    "Onboarding/Onboarding flow.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
     "Excalidraw/Drawing 2023-02-20 16.58.03.excalidraw.md"

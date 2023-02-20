@@ -10,8 +10,6 @@ The happy path is:
 
 This happy path exists because of the underlying rules that decide the next step based on the current step and the nodes that have been skipped or added before.
 
-The rules are, in order:
-- If the spouse of the last added node is available, go there.
-- If the mother of the current node is available, go there.
-- If the father of the current node is available, go there.
-- If the father of t
+The next node will preferably be the spouse of the last added node, if it's not available, it will be the current node's mother, and if not, the father. If none of these is available, the same rules will apply to the spouse of the current node. If it still can't find a valid next step, onboarding is over.
+
+Here's an example of the happy path:

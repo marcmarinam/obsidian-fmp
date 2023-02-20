@@ -11,11 +11,9 @@
             "id": "0c871154f8351e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
-                "mode": "source",
-                "source": false
+                "file": "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Onboarding flow.md"
+                "file": "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"
               }
             }
           }
@@ -149,9 +147,11 @@
   },
   "active": "0c871154f8351e2b",
   "lastOpenFiles": [
-    "Onboarding/Onboarding overview.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
+    "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-20 16.58.03.excalidraw.md",
     "Onboarding/Onboarding flow.md",
+    "Onboarding/Onboarding overview.md",
     "Onboarding/Data available.md"
   ]
 }

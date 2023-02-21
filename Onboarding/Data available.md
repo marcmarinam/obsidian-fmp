@@ -8,5 +8,5 @@ This is all the data we currently have at any given point during onboarding:
 * The number of people added
 * The number of generations reached
 
-With a bit of tweaking we can also have:
+With a bit of tweaking, we can also have:
 - Data about specific nodes added

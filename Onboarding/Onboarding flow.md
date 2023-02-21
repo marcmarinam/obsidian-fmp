@@ -17,3 +17,6 @@ Here's an example of the happy path:
 
 Here's an example of an alternative path with no skipped nodes:
 ![[onboarding-alternative-path.excalidraw]]
+
+Here's an example where the father node is skipped:
+![[onboarding-skipped-nodes.excalidraw]]

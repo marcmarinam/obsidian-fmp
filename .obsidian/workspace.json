@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FT Remake/Free trial remake overview.md",
+                "file": "Free trial remake/Remake FT.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FT Remake/FT Eligibility.md",
+                "file": "Free trial remake/FT Eligibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FT Remake/Free trial remake overview.md",
+                "file": "Free trial remake/Remake FT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FT Remake/Free trial remake overview.md",
+                "file": "Free trial remake/Remake FT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FT Remake/Free trial remake overview.md"
+                "file": "Free trial remake/Remake FT.md"
               }
             }
           }
@@ -172,11 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "daea1931653b7447",
+  "active": "5550e370e9568424",
   "lastOpenFiles": [
-    "FT Remake/New FT mutations.md",
-    "FT Remake/Free trial remake overview.md",
-    "FT Remake/FT Eligibility.md",
+    "Free trial remake/New FT mutations.md",
+    "Free trial remake/Remake FT.md",
+    "Free trial remake/FT Eligibility.md",
     "Onboarding/Onboarding overview.md",
     "Onboarding/Data available.md",
     "Untitled.canvas",

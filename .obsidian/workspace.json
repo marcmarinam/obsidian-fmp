@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Onboarding/Data available.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Onboarding/Data available.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Onboarding/Data available.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Onboarding flow.md"
+                "file": "Onboarding/Data available.md"
               }
             }
           }
@@ -170,11 +170,11 @@
   },
   "active": "ac7c99cabbfdfa3d",
   "lastOpenFiles": [
+    "Onboarding/Onboarding flow.md",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw 1.md",
-    "Onboarding/Onboarding flow.md",
     "Onboarding/Data available.md",
     "Onboarding/Onboarding overview.md",
     "Excalidraw/Drawing 2023-02-20 16.58.03.excalidraw.md"

@@ -1,4 +1,5 @@
 {
   "defaultViewMode": "preview",
-  "vimMode": false
+  "vimMode": true,
+  "tabSize": 4
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Onboarding flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Onboarding flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Onboarding flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Data available.md"
+                "file": "Onboarding/Onboarding flow.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c871154f8351e2b",
+  "active": "5550e370e9568424",
   "lastOpenFiles": [
     "Onboarding/Data available.md",
     "Onboarding/Onboarding overview.md",

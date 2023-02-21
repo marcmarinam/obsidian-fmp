@@ -5,4 +5,5 @@ This is all the data we currently have at any given point during onboarding:
 * Last added node id
 * Root person id
 * Selected person id
-* 
+* The number of people added
+* The number of generations reached

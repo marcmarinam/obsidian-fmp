@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c871154f8351e2b",
+  "active": "aeb4684bf0d3e1aa",
   "lastOpenFiles": [
-    "Onboarding/Onboarding flow.md",
     "Free trial remake/FT Eligibility.md",
+    "Free trial remake/Remake FT.md",
+    "Onboarding/Onboarding flow.md",
     "Onboarding/Happy path.canvas",
     "Onboarding/Onboarding overview.md",
     "Onboarding/Data available.md",

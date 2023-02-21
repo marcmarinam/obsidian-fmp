@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daea1931653b7447",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "04c3737460a18b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FT Remake/FT Remake Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "FT Remake/FT Remake Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "FT Remake/FT Remake Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Data available.md"
+                "file": "FT Remake/FT Remake Overview.md"
               }
             }
           }
@@ -147,16 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5550e370e9568424",
+  "active": "04c3737460a18b10",
   "lastOpenFiles": [
+    "FT Remake/FT Eligibility.md",
+    "FT Remake/FT Remake Overview.md",
+    "FT Remake/New FT mutations.md",
+    "Onboarding/Data available.md",
     "Untitled.canvas",
     "Onboarding/Onboarding overview.md",
-    "Onboarding/Data available.md",
     "Onboarding/Onboarding flow.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",
-    "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md",
-    "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw 1.md",
-    "Excalidraw/Drawing 2023-02-20 16.58.03.excalidraw.md"
+    "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"
   ]
 }

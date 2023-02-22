@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Free trial remake/Remake FT Overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,8 +149,8 @@
   },
   "active": "43d05cd708a4c07e",
   "lastOpenFiles": [
-    "Free trial remake/FT Eligibility.md",
     "Free trial remake/Remake FT Overview.md",
+    "Free trial remake/FT Eligibility.md",
     "Onboarding/Data available.md",
     "Onboarding/Onboarding flow.md",
     "Free trial remake/New FT mutations.md",

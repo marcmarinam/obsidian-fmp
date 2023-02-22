@@ -6,16 +6,11 @@ However, it has a few downsides:
 2. If we want to change the duration of a journey, we can't do it easily because there are only two underlying journeys on ecomm-gate that are shared between the titan journeys.
 
 On ecomm-gate's side, there are other problems:
-1. Free trial purchases use the same workflow as regular subscription purchases. So changes to coupon logic or
+1. Free trial purchases use the same two workflows as regular subscription purchases. So changes to business logic in those workflows can have unintended consequences.
+2. Eligibility for purchasing free trials is quite inflexible. We want to loosen the restrictions placed on users, and we'd prefer to have ecomm-gate be the source of truth rather than titan.
 
 ### Ideal solution
-* Free trial purchases are coupled with regular subscription purchases.
-* We have multiple free trial journeys, each with different durations and eligibility.
-* We don't want changes to subscription coupon logic to accidentally break FT or vice versa.
-* There's a many-to-1 relationship between journeys and coupons.
-* Free trial purchases have sufficiently diverged from regular purchases that we think it justifies a new mutation and workflow.
-
-Our proposal
+Our proposal is to introduce new queries, mutations and workflows exclusive to free trial purchases. That will allow us to isolate all the special logic we want to define and be assured that 
 
 Our proposal is to introduce a new eligibility query and a new purchase mutation that encapsulates all the free trial logic, keeping it separate from a normal subscription purchase. And also, keep the relationship between journey and coupon 1:1.
 

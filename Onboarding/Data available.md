@@ -1,5 +1,4 @@
 This is all the data we currently have at any given point during onboarding:
-* Added nodes
 * Skipped nodes
 * Tree id
 * Last added node id
@@ -10,3 +9,4 @@ This is all the data we currently have at any given point during onboarding:
 
 With a bit of tweaking, we can also have:
 - Data about specific nodes added
+* Added nodes

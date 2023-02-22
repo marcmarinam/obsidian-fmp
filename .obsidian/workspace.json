@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17c2f4d0675142ce",
+        "id": "f1bb1732a859391d",
         "type": "tabs",
         "children": [
           {
-            "id": "12ff6aee7043fe0c",
+            "id": "47e29d450f2eefc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onboarding/Onboarding flow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Onboarding/Onboarding flow.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,16 +139,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12ff6aee7043fe0c",
+  "active": "47e29d450f2eefc7",
   "lastOpenFiles": [
+    "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
+    "Onboarding/Onboarding overview.md",
+    "Onboarding/Onboarding flow.md",
     "Free trial remake/New FT mutations.md",
     "Free trial remake/Remake FT.md",
     "Free trial remake/FT Eligibility.md",
-    "Onboarding/Onboarding overview.md",
     "Onboarding/Data available.md",
     "Untitled.canvas",
-    "Onboarding/Onboarding flow.md",
-    "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"
   ]

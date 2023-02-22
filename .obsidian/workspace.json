@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5ff1561a606328a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free trial remake/Remake FT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Free trial remake/Remake FT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
+                "file": "Free trial remake/Remake FT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Onboarding flow.md"
+                "file": "Free trial remake/Remake FT.md"
               }
             }
           }
@@ -147,14 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47e29d450f2eefc7",
+  "active": "a5ff1561a606328a",
   "lastOpenFiles": [
+    "Onboarding/Onboarding flow.md",
     "Free trial remake/New FT mutations.md",
     "Free trial remake/Remake FT.md",
     "Onboarding/Data available.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Onboarding overview.md",
-    "Onboarding/Onboarding flow.md",
     "Free trial remake/FT Eligibility.md",
     "Untitled.canvas",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",

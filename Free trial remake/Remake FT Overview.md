@@ -12,6 +12,9 @@ On ecomm-gate's side, there are other problems:
 ### Ideal solution
 Our proposal is to introduce new queries, mutations and workflows exclusive to free trial purchases. That will allow us to isolate all the special logic we want to define and be assured that changes to either normal or free trial purchases don't affect one another by accident.
 
+#### Questions
+Should the journey to coupon relationship live only on ecomm-gate? At the moment we store these coupons in both ecomm-gate and titan.
+
 #### Main work
 This remake is divided into two pieces of work:
 * [[FT Eligibility]]

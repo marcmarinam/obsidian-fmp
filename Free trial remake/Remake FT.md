@@ -1,4 +1,6 @@
 ### Why
+We want to add/update the existing free trial journeys. Up until now, we have relied on the existing `FT3_SUSBCRIBE`  and 
+### Why
 * Free trial purchases are coupled with regular subscription purchases.
 * We have multiple free trial journeys, each with different durations and eligibility.
 * We don't want changes to subscription coupon logic to accidentally break FT or vice versa.
@@ -10,6 +12,7 @@ Our proposal is to introduce a new eligibility query and a new purchase mutation
 > Initially this work will only apply to the UK partnership.
 
 ### Main work
+This proposal is divided into two pieces of work:
 * [[FT Eligibility]]
 - [[New FT mutations]]
 

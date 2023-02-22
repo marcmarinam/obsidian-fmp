@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Onboarding flow.md",
-                "mode": "preview",
+                "file": "Free trial remake/Remake FT.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Free trial remake/Remake FT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Free trial remake/Remake FT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Free trial remake/Remake FT.md"
+              }
             }
           }
         ]
@@ -151,11 +154,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5ff1561a606328a",
+  "active": "47e29d450f2eefc7",
   "lastOpenFiles": [
+    "Onboarding/Onboarding flow.md",
     "Free trial remake/Remake FT.md",
     "Free trial remake/FT Eligibility.md",
-    "Onboarding/Onboarding flow.md",
     "Free trial remake/New FT mutations.md",
     "Onboarding/Data available.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",

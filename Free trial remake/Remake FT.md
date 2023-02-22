@@ -1,11 +1,12 @@
 ### Why
-We want to add more free trial journeys and update some of the existing ones. Up until now, we have relied on the existing `FT3_SUSBCRIBE` and `FT7_SUBSCRIBE` journeys in ecomm-gate alone. Whenever we had a new journey in titan (e.g. search) we converted to either of the two ecomm-gate journeys. This allowed us to implement new journeys very quickly since all the work had to be done on titan only. 
+We want to add more free trial journeys and update some of the existing ones. Up until now, we have relied on the existing `FT3_SUSBCRIBE` and `FT7_SUBSCRIBE` journeys in ecomm-gate alone. Whenever we have added a new journey in titan (e.g. search) we convert it to either of the two ecomm-gate journeys. This allows us to implement new journeys very quickly since all the work happens on titan only.
 
-However, it had a few downsides:
-1. Different journeys (ft3, search) ended up using the same coupon under the hood, so it made data analysis difficult, as it wasn't obvious what journey they went through.
-2. If we wanted to change the duration of a journey, we couldn't do it easily because there are only two underlying journeys on ecomm-gate that are shared between the titan journeys.
+However, it has a few downsides:
+1. Different journeys (ft3, search) end up using the same coupon under the hood, so it makes data analysis difficult, as it isn't obvious what journey a customer has used once the payment is done.
+2. If we want to change the duration of a journey, we can't do it easily because there are only two underlying journeys on ecomm-gate that are shared between the titan journeys.
 
-On ecomm-gate's side there are other problems.
+On ecomm-gate's side, there are other problems:
+1. Free trial purchases use the same workflow as regular subscription purchases. So changes to coupon logic or
 
 ### Ideal solution
 * Free trial purchases are coupled with regular subscription purchases.

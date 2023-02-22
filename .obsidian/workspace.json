@@ -23,12 +23,8 @@
             "id": "a5ff1561a606328a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free trial remake/Remake FT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free trial remake/Remake FT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free trial remake/Remake FT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +131,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Free trial remake/Remake FT.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,13 +153,13 @@
   },
   "active": "a5ff1561a606328a",
   "lastOpenFiles": [
+    "Free trial remake/Remake FT.md",
+    "Free trial remake/FT Eligibility.md",
     "Onboarding/Onboarding flow.md",
     "Free trial remake/New FT mutations.md",
-    "Free trial remake/Remake FT.md",
     "Onboarding/Data available.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Onboarding overview.md",
-    "Free trial remake/FT Eligibility.md",
     "Untitled.canvas",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"

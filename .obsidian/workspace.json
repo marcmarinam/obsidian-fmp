@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Data available.md",
-                "mode": "source",
+                "file": "Onboarding/Onboarding flow.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Onboarding flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding/Data available.md",
+                "file": "Onboarding/Onboarding flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding/Data available.md"
+                "file": "Onboarding/Onboarding flow.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "47e29d450f2eefc7",
   "lastOpenFiles": [
+    "Free trial remake/New FT mutations.md",
+    "Free trial remake/Remake FT.md",
+    "Onboarding/Data available.md",
     "Onboarding/Excalidraw/onboarding-happy-path.excalidraw.md",
     "Onboarding/Onboarding overview.md",
     "Onboarding/Onboarding flow.md",
-    "Free trial remake/New FT mutations.md",
-    "Free trial remake/Remake FT.md",
     "Free trial remake/FT Eligibility.md",
-    "Onboarding/Data available.md",
     "Untitled.canvas",
     "Onboarding/Excalidraw/onboarding-skipped-nodes.excalidraw.md",
     "Onboarding/Excalidraw/onboarding-alternative-path.excalidraw.md"

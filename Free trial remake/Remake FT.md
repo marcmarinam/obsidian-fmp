@@ -10,13 +10,9 @@ On ecomm-gate's side, there are other problems:
 2. Eligibility for purchasing free trials is quite inflexible. We want to loosen the restrictions placed on users, and we'd prefer to have ecomm-gate be the source of truth rather than titan.
 
 ### Ideal solution
-Our proposal is to introduce new queries, mutations and workflows exclusive to free trial purchases. That will allow us to isolate all the special logic we want to define and be assured that 
+Our proposal is to introduce new queries, mutations and workflows exclusive to free trial purchases. That will allow us to isolate all the special logic we want to define and be assured that changes to either normal or free trial purchases don't affect one another by accident.
 
-Our proposal is to introduce a new eligibility query and a new purchase mutation that encapsulates all the free trial logic, keeping it separate from a normal subscription purchase. And also, keep the relationship between journey and coupon 1:1.
-
-> Initially this work will only apply to the UK partnership.
-
-### Main work
+#### Main work
 This remake is divided into two pieces of work:
 * [[FT Eligibility]]
 - [[New FT mutations]]

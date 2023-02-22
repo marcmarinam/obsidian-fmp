@@ -3,7 +3,7 @@ We want to add more free trial journeys and update some of the existing ones. Up
 
 However, it had a few downsides:
 1. Different journeys (ft3, search) ended up using the same coupon under the hood, so it made data analysis difficult, as it wasn't obvious what journey they went through.
-2. There was a 
+2. If we wanted to change the duration of a journey, we couldn't do it because there are only two underlying journeys on ecomm-gate that are shared between the titan journeys.
 
 ### Why
 * Free trial purchases are coupled with regular subscription purchases.

@@ -5,9 +5,17 @@ However, it had a few downsides:
 1. Different journeys (ft3, search) ended up using the same coupon under the hood, so it made data analysis difficult, as it wasn't obvious what journey they went through.
 2. If we wanted to change the duration of a journey, we couldn't do it easily because there are only two underlying journeys on ecomm-gate that are shared between the titan journeys.
 
+On ecomm-gate's side there are other problems.
 
 ### Ideal solution
-Our ideal solution is to have ecomm-gate be flexible enoug
+* Free trial purchases are coupled with regular subscription purchases.
+* We have multiple free trial journeys, each with different durations and eligibility.
+* We don't want changes to subscription coupon logic to accidentally break FT or vice versa.
+* There's a many-to-1 relationship between journeys and coupons.
+* Free trial purchases have sufficiently diverged from regular purchases that we think it justifies a new mutation and workflow.
+
+Our proposal
+
 Our proposal is to introduce a new eligibility query and a new purchase mutation that encapsulates all the free trial logic, keeping it separate from a normal subscription purchase. And also, keep the relationship between journey and coupon 1:1.
 
 > Initially this work will only apply to the UK partnership.

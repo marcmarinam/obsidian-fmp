@@ -1,2 +1,2 @@
-* Instead of breaking apart the workflows, we can break apart the `getSubscriptionPlanData` and `getSubscriptionChangeData`.
+* Instead of breaking apart the workflows, we can break apart the `getSubscriptionPlanData` and `getSubscriptionChangeData`. They are pulling too much weight at the moment, and having one of these functions specifically for free trial could be enough.
 * Spinning up a new service (within ecomm-gate monorepo).

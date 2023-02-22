@@ -20,3 +20,14 @@ Here's an example of an alternative path with no skipped nodes:
 
 Here's an example where the father node is skipped:
 ![[onboarding-skipped-nodes.excalidraw]]
+
+```plantuml
+Bob -> Alice : hello
+Alice -> Wonderland: hello
+Wonderland -> next: hello
+next -> Last: hello
+Last -> next: hello
+next -> Wonderland : hello
+Wonderland -> Alice : hello
+Alice -> Bob: hello
+```

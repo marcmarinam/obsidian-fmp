@@ -1,5 +1,8 @@
 ### Why
-We want to add/update the existing free trial journeys. Up until now, we have relied on the existing `FT3_SUSBCRIBE`  and 
+We want to add more free trial journeys and update some of the existing ones. Up until now, we have relied on the existing `FT3_SUSBCRIBE` and `FT7_SUBSCRIBE` journeys in ecomm-gate alone. Whenever we had a new journey in titan (e.g. search) we converted to either of the two ecomm-gate journeys. This allowed us to implement new journeys very quickly since all the work had to be done on titan only. 
+
+However it had a few downsides.
+
 ### Why
 * Free trial purchases are coupled with regular subscription purchases.
 * We have multiple free trial journeys, each with different durations and eligibility.
@@ -12,7 +15,7 @@ Our proposal is to introduce a new eligibility query and a new purchase mutation
 > Initially this work will only apply to the UK partnership.
 
 ### Main work
-This proposal is divided into two pieces of work:
+This remake is divided into two pieces of work:
 * [[FT Eligibility]]
 - [[New FT mutations]]
 

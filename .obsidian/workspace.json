@@ -11,8 +11,12 @@
             "id": "0577a623a3fe2218",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Free trial button in navbar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experiments/Free trial button in navbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experiments/Free trial button in navbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experiments/Free trial button in navbar.md"
+              }
             }
           }
         ],
@@ -140,8 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5550e370e9568424",
+  "active": "0577a623a3fe2218",
   "lastOpenFiles": [
+    "Experiments/Free trial button in navbar.md",
+    "Experiments",
     "Free trial remake/Remake FT Overview.md",
     "Untitled.canvas",
     "Free trial remake/Meeting notes.md",

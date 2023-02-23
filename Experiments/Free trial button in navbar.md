@@ -1,0 +1,2 @@
+### Implementation
+The subscribe button is a very delicate component. It's rendered everywhere the navbar appears, so we need to be careful any changes we do won't crash the page it's being displayed in.

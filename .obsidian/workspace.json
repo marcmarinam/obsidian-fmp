@@ -11,12 +11,8 @@
             "id": "0577a623a3fe2218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free trial remake/Remake FT Overview.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d4e452f18a48315",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free trial remake/Remake FT Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free trial remake/Remake FT Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Free trial remake/Remake FT Overview.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,10 +140,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0577a623a3fe2218",
+  "active": "5550e370e9568424",
   "lastOpenFiles": [
-    "Free trial remake/Meeting notes.md",
     "Free trial remake/Remake FT Overview.md",
+    "Untitled.canvas",
+    "Free trial remake/Meeting notes.md",
     "Free trial remake/FT Eligibility.md",
     "Free trial remake/New FT mutations.md",
     "Free trial remake/Remake FT.md",

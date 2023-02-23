@@ -9,4 +9,4 @@ This is all the data we currently have at any given point during onboarding:
 
 With a bit of tweaking, we can also have:
 - Data about specific nodes added
-* Added nodes (ids and ahnenDab)
+- Added nodes (ids and ahnenDab)

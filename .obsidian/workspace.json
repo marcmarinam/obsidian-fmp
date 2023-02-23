@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiments/Free trial button in navbar.md",
-                "mode": "source",
+                "file": "Experiments/LAB-238 Free trial button in navbar.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiments/Free trial button in navbar.md",
+                "file": "Experiments/LAB-238 Free trial button in navbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiments/Free trial button in navbar.md",
+                "file": "Experiments/LAB-238 Free trial button in navbar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiments/Free trial button in navbar.md"
+                "file": "Experiments/LAB-238 Free trial button in navbar.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   },
   "active": "0577a623a3fe2218",
   "lastOpenFiles": [
-    "Experiments/Free trial button in navbar.md",
+    "Experiments/LAB-238 Free trial button in navbar.md",
     "Experiments",
     "Free trial remake/Remake FT Overview.md",
     "Untitled.canvas",

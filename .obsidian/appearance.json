@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "translucency": false
 }

@@ -4,8 +4,8 @@ The subscribe button is a very delicate component. It's rendered everywhere the 
 Internally, it uses a reducer (a form of state management) to handle the query that fetches the necessary information to know what to display, as well as error handling. We won't need to alter this implementation. All we need to do is change/expand what we query for in order to determine if the user will see the new copy.
 
 Currently, there are two queries being fired:
-1. The customer's active subscription
-2. The available plans for the customer
+1. Fetching the customer's active subscription
+2. Fetching the available plans for the customer
 
 Based on the result of these queries the component reaches one of three states:
 1. SUBSCRIBE

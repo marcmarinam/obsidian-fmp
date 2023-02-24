@@ -12,15 +12,16 @@ On ecomm-gate's side, there are other problems:
 ### Ideal solution
 Our proposal is to introduce new queries, mutations and workflows exclusive to free trial purchases. That will allow us to isolate all the special logic we want to define and be assured that changes to either normal or free trial purchases don't affect one another by accident.
 
-[[Meeting notes]]
+### Discussed solution
+Instead of breaking apart the workflows, we can break apart the `getSubscriptionPlanData` and `getSubscriptionChangeData`. They are currently pulling, and having one of these functions specifically for free trial could be enough.
 
-#### Questions
+### Questions
 Should the journey to coupon relationship live only on ecomm-gate? At the moment we store these coupons in both ecomm-gate and titan.
 
 #### Main work
 This remake is divided into two pieces of work:
-* [[FT Eligibility]]
-- [[New FT mutations]]
+* [[LAB-662 New FT eligibility query]]
+- [[LAB-663 New FT mutations]]
 
 ### Post-remake work
 * Implement each journey in ecomm-gate

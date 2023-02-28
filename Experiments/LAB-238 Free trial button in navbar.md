@@ -1,7 +1,6 @@
 #### Experiment specifics
 
-#### Toggle
-Link: 
+**Toggle**
 
 **Variants**
 * Control: No free trial button in the navbar - 50%

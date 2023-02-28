@@ -8,8 +8,8 @@ LD: https://app.launchdarkly.com/fmp/integration/features/ft-button-in-navbar/ta
 - Integration: https://optimize.google.com/optimize/home/#/accounts/4551417010/containers/10578925/experiments/697
 
 **Variants**
-* Control - `ft-button-in-navbar-0`: No free trial button in the navbar (50%)
-* Variant 1 - `ft-button-in-navbar-1`: Show the free trial button in the navbar (50%)
+* Control - `ft-button-in-navbar-0`: Subscribe button in the navbar (50%)
+* Variant 1 - `ft-button-in-navbar-1`: Free trial button in the navbar (50%)
 
 **Eligibility**
 - Logged in users

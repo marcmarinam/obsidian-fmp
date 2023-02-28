@@ -6,3 +6,6 @@
 	* Package id
 * PayPal
 	* Package id
+* Payment confirmation
+	* Fire the transaction event but from the data layer (`useDataLayerTracking`)
+* 

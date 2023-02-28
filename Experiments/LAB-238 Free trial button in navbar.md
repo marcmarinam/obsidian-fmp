@@ -1,6 +1,11 @@
 #### Experiment specifics
 
-**Toggle**
+**Toggle** - `ft-button-in-navbar`
+LD: 
+
+**Optimize**
+- Production: 
+- Integration: 
 
 **Variants**
 * Control: No free trial button in the navbar - 50%

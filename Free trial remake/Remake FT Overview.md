@@ -17,9 +17,6 @@ Instead of breaking apart the workflows, we can break apart the `getSubscription
 
 We can create a new `getFreeTrialData` function that has similar responsibilities to the two mentioned before. This function could be called by the `experimentalFreeTrialPurchaseWorkflow`.
 
-### Questions
-Should the journey to coupon relationship live only on ecomm-gate? At the moment we store these coupons in both ecomm-gate and titan.
-
 #### Main work
 This remake is divided into two pieces of work:
 * [[LAB-662 New FT eligibility query]]

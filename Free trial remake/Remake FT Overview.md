@@ -15,7 +15,7 @@ Our proposal is to introduce new queries, mutations and workflows exclusive to f
 ### Discussed solution
 Instead of breaking apart the workflows, we can break apart the `getSubscriptionPlanData` and `getSubscriptionChangeData`. They are currently pulling too much weight, and having one of these functions specifically for free trial could be enough.
 
-We can create a new `getFreeTrialData` function that has similar responsibilities to the two mentioned before. This function could be called by the `purchaseExperimentalFreeTrialWorkflow`.
+We can create a new `getFreeTrialData` function that has similar responsibilities to the two mentioned before. This function could be called by the `experimentalFreeTrialPurchaseWorkflow`.
 
 ### Questions
 Should the journey to coupon relationship live only on ecomm-gate? At the moment we store these coupons in both ecomm-gate and titan.

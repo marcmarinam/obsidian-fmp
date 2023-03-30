@@ -440,8 +440,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 966,
-			"versionNonce": 1254166539,
+			"version": 968,
+			"versionNonce": 331717285,
 			"isDeleted": false,
 			"id": "JClhrKXnd3_n_BjJ2kxgJ",
 			"fillStyle": "hachure",
@@ -462,7 +462,7 @@ Only FT service ^W1B87UYD
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680169696253,
+			"updated": 1680169775020,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -491,8 +491,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 1504,
-			"versionNonce": 1514276555,
+			"version": 1506,
+			"versionNonce": 819367909,
 			"isDeleted": false,
 			"id": "sGjfGGFJOvEaBCcWzwCB-",
 			"fillStyle": "hachure",
@@ -513,7 +513,7 @@ Only FT service ^W1B87UYD
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680169696252,
+			"updated": 1680169775020,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -724,8 +724,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 1781,
-			"versionNonce": 831321451,
+			"version": 1783,
+			"versionNonce": 1369787205,
 			"isDeleted": false,
 			"id": "jBkT_DGgnMXCWugwWH5zb",
 			"fillStyle": "hachure",
@@ -734,12 +734,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -139.652717462984,
-			"y": -121.59503990953752,
+			"x": -139.65271746298401,
+			"y": -121.59503990953755,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 205.1006592162844,
-			"height": 150.71007876401555,
+			"width": 205.10065921628444,
+			"height": 150.71007876401552,
 			"seed": 111005783,
 			"groupIds": [],
 			"roundness": {
@@ -751,7 +751,7 @@ Only FT service ^W1B87UYD
 					"id": "W1B87UYD"
 				}
 			],
-			"updated": 1680169696252,
+			"updated": 1680169775020,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -773,8 +773,8 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					205.1006592162844,
-					-150.71007876401555
+					205.10065921628444,
+					-150.71007876401552
 				]
 			]
 		},

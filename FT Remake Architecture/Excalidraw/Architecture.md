@@ -667,8 +667,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 2344,
-			"versionNonce": 109599307,
+			"version": 2534,
+			"versionNonce": 373126661,
 			"isDeleted": false,
 			"id": "MKG2mkpS5XeADjh9PUkuy",
 			"fillStyle": "hachure",
@@ -681,8 +681,8 @@ Only FT service ^W1B87UYD
 			"y": -171.28117407580345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 300.58714920964417,
-			"height": 214.7709619593423,
+			"width": 300.3456719369169,
+			"height": 226.69567786843322,
 			"seed": 1372726201,
 			"groupIds": [],
 			"roundness": {
@@ -694,18 +694,18 @@ Only FT service ^W1B87UYD
 					"id": "UmtCt4RD"
 				}
 			],
-			"updated": 1680161838391,
+			"updated": 1680164202243,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NAOKq8hEkJznOvLD1922j",
-				"gap": 9.682528409090992,
-				"focus": 0.1784354992178251
+				"focus": 0.19468172823322666,
+				"gap": 9.682528409090992
 			},
 			"endBinding": {
 				"elementId": "mFjpn16tmmyJUm-A9ENqt",
-				"gap": 14.231838981011549,
-				"focus": 0.9468596563064596
+				"focus": 0.9947411262666604,
+				"gap": 14.473316253738801
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -716,8 +716,8 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					300.58714920964417,
-					-214.7709619593423
+					300.3456719369169,
+					-226.69567786843322
 				]
 			]
 		},
@@ -863,8 +863,8 @@ Only FT service ^W1B87UYD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 603.6135955873109,
-		"scrollY": 722.4549475294627,
+		"scrollX": 564.9062092236625,
+		"scrollY": 723.4563679839962,
 		"zoom": {
 			"value": 1.1
 		},

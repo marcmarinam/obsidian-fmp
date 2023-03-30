@@ -12,6 +12,8 @@ ecomm-gate
 
 
 isEligibleForFreeTrial(origin, duration)
+origin + duration -> coupon
+
 purchaseSubscription(...args, origin, duration) ^BPlW1YIm
 
 Titan
@@ -21,7 +23,6 @@ origins ^GiSBRrMP
 New free trial service
 
 isEligibleForFreeTrial(user, origin, duration)
-    origin + duration -> coupon
     Whatever eligibility criteria applied
 
 Future:
@@ -51,8 +52,8 @@ Only FT service ^W1B87UYD
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 664,
-			"versionNonce": 2107103344,
+			"version": 666,
+			"versionNonce": 1863149547,
 			"isDeleted": false,
 			"id": "hF2JG4msDDQfGAjjNS1TN",
 			"fillStyle": "hachure",
@@ -66,7 +67,7 @@ Only FT service ^W1B87UYD
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 470,
-			"height": 105,
+			"height": 143,
 			"seed": 1844522393,
 			"groupIds": [],
 			"roundness": null,
@@ -84,14 +85,14 @@ Only FT service ^W1B87UYD
 					"id": "BPlW1YIm"
 				}
 			],
-			"updated": 1680103722169,
+			"updated": 1680169699384,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 273,
-			"versionNonce": 554565943,
+			"version": 276,
+			"versionNonce": 1624088645,
 			"isDeleted": false,
 			"id": "BPlW1YIm",
 			"fillStyle": "hachure",
@@ -105,23 +106,23 @@ Only FT service ^W1B87UYD
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 443,
-			"height": 95,
+			"height": 133,
 			"seed": 120902775,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680103357424,
+			"updated": 1680169699386,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\npurchaseSubscription(...args, origin, duration)",
-			"rawText": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\npurchaseSubscription(...args, origin, duration)",
-			"baseline": 91,
+			"text": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\norigin + duration -> coupon\n\npurchaseSubscription(...args, origin, duration)",
+			"rawText": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\norigin + duration -> coupon\n\npurchaseSubscription(...args, origin, duration)",
+			"baseline": 129,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "hF2JG4msDDQfGAjjNS1TN",
-			"originalText": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\npurchaseSubscription(...args, origin, duration)"
+			"originalText": "ecomm-gate\n\n\nisEligibleForFreeTrial(origin, duration)\norigin + duration -> coupon\n\npurchaseSubscription(...args, origin, duration)"
 		},
 		{
 			"type": "rectangle",
@@ -404,8 +405,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 1082,
-			"versionNonce": 390783243,
+			"version": 1088,
+			"versionNonce": 1412826277,
 			"isDeleted": false,
 			"id": "NQS3PkUL",
 			"fillStyle": "hachure",
@@ -419,28 +420,28 @@ Only FT service ^W1B87UYD
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 432,
-			"height": 171,
+			"height": 152,
 			"seed": 1662327065,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680161837996,
+			"updated": 1680169694911,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 3,
-			"text": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    origin + duration -> coupon\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial",
-			"rawText": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    origin + duration -> coupon\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial",
-			"baseline": 167,
+			"text": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial",
+			"rawText": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial",
+			"baseline": 148,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": "mFjpn16tmmyJUm-A9ENqt",
-			"originalText": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    origin + duration -> coupon\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial"
+			"originalText": "New free trial service\n\nisEligibleForFreeTrial(user, origin, duration)\n    Whatever eligibility criteria applied\n\nFuture:\nStartFreeTrial\nExtendFreeTrial"
 		},
 		{
 			"type": "arrow",
-			"version": 964,
-			"versionNonce": 953207141,
+			"version": 966,
+			"versionNonce": 1254166539,
 			"isDeleted": false,
 			"id": "JClhrKXnd3_n_BjJ2kxgJ",
 			"fillStyle": "hachure",
@@ -453,26 +454,26 @@ Only FT service ^W1B87UYD
 			"y": -222.3536733242309,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.851006334154647,
-			"height": 84.1869208454292,
+			"width": 0.8550486065487917,
+			"height": 84.58680795839692,
 			"seed": 1463247095,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680169600533,
+			"updated": 1680169696253,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "mFjpn16tmmyJUm-A9ENqt",
-				"focus": 0.1956396410396141,
-				"gap": 6.997778196256604
+				"gap": 6.997778196256604,
+				"focus": 0.1956396410396141
 			},
 			"endBinding": {
 				"elementId": "haREjNC09MUp-D-bXdzLI",
-				"focus": -0.47827600576820084,
-				"gap": 8.398080197598915
+				"gap": 8.398080197598915,
+				"focus": -0.47827600576820084
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -483,15 +484,15 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					0.851006334154647,
-					84.1869208454292
+					0.8550486065487917,
+					84.58680795839692
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1502,
-			"versionNonce": 144146373,
+			"version": 1504,
+			"versionNonce": 1514276555,
 			"isDeleted": false,
 			"id": "sGjfGGFJOvEaBCcWzwCB-",
 			"fillStyle": "hachure",
@@ -500,30 +501,30 @@ Only FT service ^W1B87UYD
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 305.76832236711004,
-			"y": -139.32021660974547,
+			"x": 305.76858932512255,
+			"y": -139.19724369129267,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.17598003292101794,
-			"height": 81.0643517821106,
+			"width": 0.17624699093352092,
+			"height": 81.18732470056341,
 			"seed": 1663340025,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680169604055,
+			"updated": 1680169696252,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "haREjNC09MUp-D-bXdzLI",
-				"focus": 0.26461163260688325,
-				"gap": 8.919268627245106
+				"gap": 8.919268627245106,
+				"focus": 0.26461163260688325
 			},
 			"endBinding": {
 				"elementId": "mFjpn16tmmyJUm-A9ENqt",
-				"focus": 0.07718111761258115,
-				"gap": 8.966883128631423
+				"gap": 8.966883128631423,
+				"focus": 0.07718111761258115
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -534,8 +535,8 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					-0.17598003292101794,
-					-81.0643517821106
+					-0.17624699093352092,
+					-81.18732470056341
 				]
 			]
 		},
@@ -576,8 +577,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 1239,
-			"versionNonce": 905021707,
+			"version": 1241,
+			"versionNonce": 1220454699,
 			"isDeleted": false,
 			"id": "Ao5014tnsCz0x8v05IWO3",
 			"fillStyle": "hachure",
@@ -586,12 +587,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -475.4442628560418,
-			"y": -172.05532180307608,
+			"x": -475.44426285604186,
+			"y": -172.0553218030761,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.2403936375592366,
-			"height": 287.69709353126063,
+			"width": 1.0956937153493413,
+			"height": 249.6970935312606,
 			"seed": 523396825,
 			"groupIds": [],
 			"roundness": {
@@ -603,18 +604,18 @@ Only FT service ^W1B87UYD
 					"id": "osoqdyOY"
 				}
 			],
-			"updated": 1680169521482,
+			"updated": 1680169700673,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NAOKq8hEkJznOvLD1922j",
-				"focus": -0.6643802787771251,
-				"gap": 10.456676136363626
+				"gap": 10.456676136363626,
+				"focus": -0.6643802787771251
 			},
 			"endBinding": {
 				"elementId": "hF2JG4msDDQfGAjjNS1TN",
-				"focus": 0.6426822645407206,
-				"gap": 14.801734909394156
+				"gap": 14.801734909394156,
+				"focus": 0.6426822645407206
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -625,8 +626,8 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					1.2403936375592366,
-					-287.69709353126063
+					1.0956937153493413,
+					-249.6970935312606
 				]
 			]
 		},
@@ -667,8 +668,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 3994,
-			"versionNonce": 1452750283,
+			"version": 3996,
+			"versionNonce": 1090931659,
 			"isDeleted": false,
 			"id": "MKG2mkpS5XeADjh9PUkuy",
 			"fillStyle": "hachure",
@@ -677,12 +678,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -235.9794477088696,
+			"x": -235.97944770886963,
 			"y": -171.28117407580345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.898933174155502,
-			"height": 288.3689568278441,
+			"width": 0.846172618142532,
+			"height": 250.3689568278441,
 			"seed": 1372726201,
 			"groupIds": [],
 			"roundness": {
@@ -694,18 +695,18 @@ Only FT service ^W1B87UYD
 					"id": "UmtCt4RD"
 				}
 			],
-			"updated": 1680169509698,
+			"updated": 1680169700674,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NAOKq8hEkJznOvLD1922j",
-				"focus": 0.5757560374252673,
-				"gap": 9.682528409090992
+				"gap": 9.682528409090992,
+				"focus": 0.5757560374252673
 			},
 			"endBinding": {
 				"elementId": "hF2JG4msDDQfGAjjNS1TN",
-				"focus": -0.37364404517843586,
-				"gap": 14.904019340083323
+				"gap": 14.904019340083323,
+				"focus": -0.37364404517843586
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -716,15 +717,15 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					0.898933174155502,
-					-288.3689568278441
+					0.846172618142532,
+					-250.3689568278441
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1779,
-			"versionNonce": 1690732651,
+			"version": 1781,
+			"versionNonce": 831321451,
 			"isDeleted": false,
 			"id": "jBkT_DGgnMXCWugwWH5zb",
 			"fillStyle": "hachure",
@@ -733,12 +734,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -139.65271746298401,
-			"y": -121.59503990953755,
+			"x": -139.652717462984,
+			"y": -121.59503990953752,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 205.10065921628438,
-			"height": 150.71007876401546,
+			"width": 205.1006592162844,
+			"height": 150.71007876401555,
 			"seed": 111005783,
 			"groupIds": [],
 			"roundness": {
@@ -750,18 +751,18 @@ Only FT service ^W1B87UYD
 					"id": "W1B87UYD"
 				}
 			],
-			"updated": 1680169487526,
+			"updated": 1680169696252,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "NAOKq8hEkJznOvLD1922j",
-				"focus": 0.8545962398894146,
-				"gap": 14.666944982628138
+				"gap": 14.666944982628138,
+				"focus": 0.8545962398894146
 			},
 			"endBinding": {
 				"elementId": "mFjpn16tmmyJUm-A9ENqt",
-				"focus": 0.5267332084047694,
-				"gap": 13.391598728485747
+				"gap": 13.391598728485747,
+				"focus": 0.5267332084047694
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -772,8 +773,8 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					205.10065921628438,
-					-150.71007876401546
+					205.1006592162844,
+					-150.71007876401555
 				]
 			]
 		},

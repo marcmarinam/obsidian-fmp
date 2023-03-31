@@ -91,8 +91,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 277,
-			"versionNonce": 807647926,
+			"version": 278,
+			"versionNonce": 583124966,
 			"isDeleted": false,
 			"id": "BPlW1YIm",
 			"fillStyle": "hachure",
@@ -111,7 +111,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987924,
+			"updated": 1680258021909,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -169,8 +169,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 390,
-			"versionNonce": 1833807798,
+			"version": 391,
+			"versionNonce": 957059450,
 			"isDeleted": false,
 			"id": "GiSBRrMP",
 			"fillStyle": "hachure",
@@ -189,7 +189,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987927,
+			"updated": 1680258021910,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -405,8 +405,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 1089,
-			"versionNonce": 1300469482,
+			"version": 1090,
+			"versionNonce": 1548475174,
 			"isDeleted": false,
 			"id": "NQS3PkUL",
 			"fillStyle": "hachure",
@@ -425,7 +425,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987929,
+			"updated": 1680258021910,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -440,8 +440,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 970,
-			"versionNonce": 253297526,
+			"version": 972,
+			"versionNonce": 2052514042,
 			"isDeleted": false,
 			"id": "JClhrKXnd3_n_BjJ2kxgJ",
 			"fillStyle": "hachure",
@@ -462,7 +462,7 @@ Only FT service ^W1B87UYD
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680180987929,
+			"updated": 1680258021918,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -491,8 +491,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 1508,
-			"versionNonce": 850020598,
+			"version": 1510,
+			"versionNonce": 1235679098,
 			"isDeleted": false,
 			"id": "sGjfGGFJOvEaBCcWzwCB-",
 			"fillStyle": "hachure",
@@ -513,7 +513,7 @@ Only FT service ^W1B87UYD
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1680180987928,
+			"updated": 1680258021918,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -577,8 +577,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 1245,
-			"versionNonce": 1686565878,
+			"version": 1249,
+			"versionNonce": 1350526266,
 			"isDeleted": false,
 			"id": "Ao5014tnsCz0x8v05IWO3",
 			"fillStyle": "hachure",
@@ -587,12 +587,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -475.4425761043612,
-			"y": -172.05532180307608,
+			"x": -475.4422577658812,
+			"y": -172.0553218030761,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1.0674002511834715,
-			"height": 242.69709353126063,
+			"width": 1.0671973096961551,
+			"height": 242.6970935312606,
 			"seed": 523396825,
 			"groupIds": [],
 			"roundness": {
@@ -604,7 +604,7 @@ Only FT service ^W1B87UYD
 					"id": "osoqdyOY"
 				}
 			],
-			"updated": 1680180987925,
+			"updated": 1680258021915,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -626,15 +626,15 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					1.0674002511834715,
-					-242.69709353126063
+					1.0671973096961551,
+					-242.6970935312606
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 11,
-			"versionNonce": 1867850934,
+			"version": 13,
+			"versionNonce": 599737254,
 			"isDeleted": false,
 			"id": "osoqdyOY",
 			"fillStyle": "hachure",
@@ -643,7 +643,7 @@ Only FT service ^W1B87UYD
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -546.4088759787694,
+			"x": -546.4086591110331,
 			"y": -313.4038685687064,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -653,7 +653,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987955,
+			"updated": 1680258029512,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -668,8 +668,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "arrow",
-			"version": 4000,
-			"versionNonce": 850462006,
+			"version": 4004,
+			"versionNonce": 747810298,
 			"isDeleted": false,
 			"id": "MKG2mkpS5XeADjh9PUkuy",
 			"fillStyle": "hachure",
@@ -678,12 +678,12 @@ Only FT service ^W1B87UYD
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -235.96442866070885,
+			"x": -235.96140841047824,
 			"y": -171.28117407580345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 0.8234951378566393,
-			"height": 243.3689568278441,
+			"width": 0.8210871577225305,
+			"height": 243.36895682784422,
 			"seed": 1372726201,
 			"groupIds": [],
 			"roundness": {
@@ -695,7 +695,7 @@ Only FT service ^W1B87UYD
 					"id": "UmtCt4RD"
 				}
 			],
-			"updated": 1680180987926,
+			"updated": 1680258021916,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -717,15 +717,15 @@ Only FT service ^W1B87UYD
 					0
 				],
 				[
-					0.8234951378566393,
-					-243.3689568278441
+					0.8210871577225305,
+					-243.36895682784422
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1787,
-			"versionNonce": 1805761078,
+			"version": 1791,
+			"versionNonce": 932051002,
 			"isDeleted": false,
 			"id": "jBkT_DGgnMXCWugwWH5zb",
 			"fillStyle": "hachure",
@@ -751,7 +751,7 @@ Only FT service ^W1B87UYD
 					"id": "W1B87UYD"
 				}
 			],
-			"updated": 1680180987928,
+			"updated": 1680258021918,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -780,8 +780,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 931473834,
+			"version": 170,
+			"versionNonce": 1837412794,
 			"isDeleted": false,
 			"id": "UmtCt4RD",
 			"fillStyle": "hachure",
@@ -790,8 +790,8 @@ Only FT service ^W1B87UYD
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -311.0526810917805,
-			"y": -322.96565248972547,
+			"x": -311.050864831617,
+			"y": -322.9656524897256,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 151,
@@ -800,7 +800,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987955,
+			"updated": 1680258029512,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -815,8 +815,8 @@ Only FT service ^W1B87UYD
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 1308302838,
+			"version": 14,
+			"versionNonce": 530833126,
 			"isDeleted": false,
 			"id": "W1B87UYD",
 			"fillStyle": "hachure",
@@ -835,7 +835,7 @@ Only FT service ^W1B87UYD
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1680180987956,
+			"updated": 1680258029512,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -864,10 +864,10 @@ Only FT service ^W1B87UYD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 605.8936224181191,
-		"scrollY": 713.4092863397834,
+		"scrollX": 609.0984480772495,
+		"scrollY": 714.9447652882277,
 		"zoom": {
-			"value": 0.9
+			"value": 0.8926541488477581
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

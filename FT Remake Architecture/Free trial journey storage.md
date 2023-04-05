@@ -2,7 +2,14 @@
 We need to store (at least) what combination of origin + duration a user has purchased. We will store that in a database accessed by the free trial service.
 
 #### What data do we need to store?
-- What kind of data will we need for analysis?
+- Free trial details (origin and number of days)
+- Subscription id
+	- More data about the subscription?
 
 #### How do we store it?
--
+- Ecomm-gate database
+	- Single table
+
+#### How do we access it?
+- Database adapter
+	- Ask Oleh for help if needed

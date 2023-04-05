@@ -1,5 +1,5 @@
 ### Intro
-We need to store (at least) what combination of origin + duration a user has purchased. We will store that in a database accessed by the free trial service.
+We need to store (at least) what combination of origin + duration a user has purchased. We will store that in a database accessed by ecomm-gate.
 
 #### What data do we need to store?
 - Free trial details (origin and number of days)

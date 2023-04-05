@@ -5,4 +5,4 @@ We need to store (at least) what combination of origin + duration a user has pur
 - What data structure?
 
 #### How do we store it?
-- What kind of database?
+-

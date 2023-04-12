@@ -2,9 +2,12 @@
 We need to store (at least) what combination of origin + duration a user has purchased. We will store that in a database accessed by ecomm-gate.
 
 #### What data do we need to store?
-- Free trial details (origin and number of days)
+- Free trial origin
+- Free trial duration
 - Subscription id
-	- More data about the subscription?
+- Date
+- Transaction id
+- Member id
 
 #### How do we store it?
 - Ecomm-gate database

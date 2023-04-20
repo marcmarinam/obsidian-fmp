@@ -1,0 +1,1 @@
+Phase 2 will be where we migrate to couponless free trials. With phase 1.5 done we have already taken care of storing FT pru

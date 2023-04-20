@@ -5,4 +5,5 @@ There are two main pieces of work in phase 2:
 - Eligibility
 - FT purchase
 #### Eligibility
-We're gonna need to update the 
+We'll need to update the new isEligibleForFreeTrial query to use the stored FT purchases data and all the existing checks (active sub, redeemed coupons, etc).
+Once we have 

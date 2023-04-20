@@ -6,4 +6,4 @@ There are two main pieces of work in phase 2:
 - FT purchase
 #### Eligibility
 We'll need to update the new isEligibleForFreeTrial query to use the stored FT purchases data and all the existing checks (active sub, redeemed coupons, etc).
-Once we have 
+Even though we are moving to couponless, we still need to check for redeemed coupons, because so far all of our customers have been using them. Maybe we can stop doing that check at some point in the future, but 

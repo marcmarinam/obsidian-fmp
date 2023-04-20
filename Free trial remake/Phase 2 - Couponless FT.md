@@ -15,6 +15,6 @@ Storage of the purchased details has already been taken care of.
 #### Extra
 We will need to go over all the places where we expect an FT coupon and change the logic to rely only on the date.
 
-The only places I can think now are:
+The only places I can think of now are:
 - `freeTrialDuration` property in a user's subscriptions
 - `freeTrialDuration` property in purchase previews

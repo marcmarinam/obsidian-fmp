@@ -13,4 +13,8 @@ Once eligibility is in place, we can start moving away from coupons. Previously,
 Storage of the purchased details has already been taken care of.
 
 #### Extra
-We will need to go over all the places where we expect a FT coupon, and change the logic to rely only on the date.
+We will need to go over all the places where we expect an FT coupon and change the logic to rely only on the date.
+
+The only places I can think now are:
+- `freeTrialDuration` property in a user's subscriptions
+- `freeTrialDuration` property in purchase previews

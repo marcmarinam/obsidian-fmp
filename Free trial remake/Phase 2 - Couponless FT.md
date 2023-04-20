@@ -8,4 +8,4 @@ We'll begin by updating the new isEligibleForFreeTrial query to use the stored F
 Even though we are moving to couponless, we still need to check for redeemed coupons, because so far all of our customers have been using them. Maybe we can stop doing that check at some point in the future, but for now, it's necessary.
 
 #### Purchases
-Once eligibility is in place, we can start moving away from coupons. Previously, the way we set the free trial length of a sub was by using a free trial type coupon. Now that we won't be using those, we need to set the `freeTrialStartsAt` .
+Once eligibility is in place, we can start moving away from coupons. Previously, the way we set the free trial length of a sub was by using a free trial type coupon. Now that we won't be using those, we need to set the `trialEndsAt` property when executing a purchase.

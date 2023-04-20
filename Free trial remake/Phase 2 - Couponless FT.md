@@ -11,3 +11,6 @@ Even though we are moving to couponless, we still need to check for redeemed cou
 Once eligibility is in place, we can start moving away from coupons. Previously, the way we set the free trial length of a sub was by using a free trial type coupon. Now that we won't be using those, we need to set the `trialEndsAt` property when executing a purchase.
 
 Storage of the purchased details has already been taken care of.
+
+#### Extra
+We will need to go over all the places where we expect a FT coupon, and change the logic to rely only on the date.

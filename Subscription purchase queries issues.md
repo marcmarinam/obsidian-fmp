@@ -9,4 +9,4 @@ Adding that property to the schema introduced self-reference.
 This didn't appear to be a problem in `codegen-types.ts` but it was in `codegen-mocks.ts`.
 
 #### Alternative solution
-We have created a new top-level query called `previewSubscriptionPlanPurchases` that takes multiple plan ids as in
+We have created a new top-level query called `previewSubscriptionPlanPurchases` that takes multiple plan ids as input.

@@ -1,2 +1,0 @@
-Determined
-Cheerful

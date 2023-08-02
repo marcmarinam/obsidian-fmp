@@ -1,1 +1,8 @@
-- Available plans query error
+- Available plans
+	- Error in the query
+	- Customer has no available plans
+	- Unknown error
+- Purchase previews
+	- Error in one of the queries
+	- Unknown error
+	- 

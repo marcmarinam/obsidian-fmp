@@ -5,4 +5,5 @@
 - Purchase previews
 	- Error in one of the queries
 	- Unknown error
-	- 
+- General
+	- Unknown error

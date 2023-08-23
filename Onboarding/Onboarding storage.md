@@ -10,6 +10,8 @@ Info we need:
 1. Knowing that a user has abandoned onboarding.
 2. Knowing when the user abandoned onboarding.
 ### Storage options
+There are two options when it comes to storing onboarding state: DB and non-DB storage. That just means storing the state machine context. Regardless of what we do, we'll still need to store w
+
 #### Non-DB storage
 Instead of storing the onboarding state, we can regenerate it and place users back on the next onboarding step based on the nodes they have created.
 ##### Potential issues

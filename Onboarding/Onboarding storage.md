@@ -15,8 +15,9 @@ There are two options when it comes to storing onboarding state: DB and non-DB s
 Instead of storing the onboarding state, we can regenerate it and place users back on the next available onboarding node based on the nodes they have created.
 ##### Potential issues
 1. Do we want to keep track of what nodes were skipped? If a user comes back to onboarding and the nodes they skipped don't show up as skipped anymore is it a big deal?
-2. Added complexity due to having to interpret tree to recreate the onboarding state. Can be simple but prone to bugs.
+2. Added complexity due to having to interpret tree to recreate the onboarding state. Can be simple but prone to bugs. We can test it very well, but nothing is bulletproof.
 #### DB storage
 We can store the onboarding state (current step, skipped nodes, family ids, etc.) in a DB/table to be discussed with tree teams.
 ##### Potential issues
 1. Falling out of sync with the tree. We could store onboarding state that could be invalidated by user actions such as adding people, accepting hints, etc.
+2. Added infrastructure complexity. Even if it's minimal, we'll have to maybe spin up a new database, and have to update Jigsaw to send back onboarding da

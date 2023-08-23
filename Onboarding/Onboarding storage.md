@@ -20,4 +20,3 @@ Instead of storing the onboarding state, we can regenerate it and place users ba
 We can store the onboarding state (current step, skipped nodes, family ids, etc.) in a DB/table to be discussed with tree teams.
 ##### Potential issues
 1. Falling out of sync with the tree. We could store onboarding state that could be invalidated by user actions such as adding people, accepting hints, etc.
-2. 

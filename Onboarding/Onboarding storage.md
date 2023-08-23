@@ -9,3 +9,7 @@ Instead of storing the onboarding state, we can regenerate it and place users ba
 1. Do we want to keep track of what nodes were skipped? If a user comes back to onboarding and the nodes they skipped are available again is it a big deal?
 2. Added complexity due to having to interpret tree
 #### DB storage
+TODO
+
+#### Completed onboarding
+1. What counts as completed onboarding? When they leave and create >1 extra nodes? Or when they get to the success screen?

@@ -5,7 +5,7 @@
     3. When they get to the success screen?
     4. When they reach 3 generations up?
 2. Do we only remind users to complete onboarding on their first tree or any tree they create?
-### Onboarding reminder email
+#### Onboarding reminder email
 Info we need:
 1. Knowing that a user has abandoned onboarding.
 2. Knowing when the user abandoned onboarding.
@@ -20,4 +20,4 @@ Instead of storing the onboarding state, we can regenerate it and place users ba
 We can store the onboarding state (current step, skipped nodes, family ids, etc.) in a DB/table to be discussed with tree teams.
 ##### Potential issues
 1. Falling out of sync with the tree. We could store onboarding state that could be invalidated by user actions such as adding people, accepting hints, etc.
-2. Added infrastructure complexity. Even if it's minimal, we'll have to maybe spin up a new database, and have to update Jigsaw to send back onboarding da
+2. Added infrastructure complexity. Even if it's minimal, we'll have to maybe spin up a new database, and have to update Jigsaw to send back onboarding data.

@@ -5,9 +5,9 @@ Throughout my journey, I have been involved in various stages of software develo
 **NTTDATA | Lead Architect**
 *Sep. 2021 - Present*
 - Led a 4-member technical team.
-- Planned and managed sprints with the client.
+- Planned and managed sprints directly with the client.
 - Identified, tracked, and led projects for the strategic evolution of the architecture.
-- Interacted with client teams to ensure compliance with architecture standards.
+- Interacted with clients' engineering teams to ensure compliance with architecture standards.
 - Designed and implemented the project's foundation for microservices orchestration with Kubernetes based on GitOps.
 - Served as a technical reference for both the client and various technical teams within the organization.
 

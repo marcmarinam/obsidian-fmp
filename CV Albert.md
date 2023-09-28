@@ -38,5 +38,22 @@ Degree in Computer Engineering**
 **Higher National Diploma (CFGS) in Software Development**
 *Centro de Estudios Politécnicos Barcelona*
 *2012*
+### Certifications
+- **AWS Certified Solutions Architect Associate (SAA)**
+  *2021 - 2024*
 
-###
+- **DevOps Foundation**
+  *February 2020*
+  ### Soft skills
+  **
+
+- Facilidad para resolver problemas
+    
+- Facilidad para aprender
+    
+- Trabajo en equipo
+    
+- Proactividad
+    
+- Liderazgo
+- Empatía

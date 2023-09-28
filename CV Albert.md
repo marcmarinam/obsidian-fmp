@@ -44,16 +44,10 @@ Degree in Computer Engineering**
 
 - **DevOps Foundation**
   *February 2020*
-  ### Soft skills
-  **
-
-- Facilidad para resolver problemas
-    
-- Facilidad para aprender
-    
-- Trabajo en equipo
-    
-- Proactividad
-    
-- Liderazgo
-- Empatía
+### Soft skills
+- Fast problem solver
+- Quick learner
+- Teamwork
+- Proactivity
+- Leadership
+- Empathy

@@ -30,3 +30,13 @@ Throughout my journey, I have been involved in various stages of software develo
 - Completed extracurricular internship, responsible for configuring various in-house tools (Jira, Confluence, Bitbucket, Bamboo, Jenkins).
 - Developed a Dockerized Angular-based project for monitoring various in-house environments.
 - Configured the continuous integration cycle for the project.
+### Education
+Degree in Computer Engineering**
+*Universitat Politècnica de Catalunya*
+*2017*
+
+**Higher National Diploma (CFGS) in Software Development**
+*Centro de Estudios Politécnicos Barcelona*
+*2012*
+
+###

@@ -23,7 +23,7 @@ Throughout my journey, I have been involved in various stages of software develo
 *Nov. 2017 - Dec. 2019*
 - Developed cross-functional microservices.
 - Managed and configured the continuous integration cycle.
-- Evolved client's architecture tools.
+- Evolved the client's architecture tools.
 
 **NTTDATA | Intern**
 *May 2017 - Nov. 2017*

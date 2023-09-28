@@ -31,7 +31,7 @@ Throughout my career, I have been involved in various stages of software develop
 - Developed a Dockerized Angular-based project for monitoring various in-house environments.
 - Configured the continuous integration cycle for the project.
 ### Education
-Degree in Computer Engineering**
+**Degree in Computer Engineering**
 *Universitat Politècnica de Catalunya*
 *2017*
 

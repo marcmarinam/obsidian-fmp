@@ -41,7 +41,6 @@ Degree in Computer Engineering**
 ### Certifications
 - **AWS Certified Solutions Architect Associate (SAA)**
   *2021 - 2024*
-
 - **DevOps Foundation**
   *February 2020*
 ### Soft skills

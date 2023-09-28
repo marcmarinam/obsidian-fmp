@@ -9,7 +9,7 @@ Throughout my journey, I have been involved in various stages of software develo
 - Identified, tracked, and led projects for the strategic evolution of the architecture.
 - Interacted with clients' engineering teams to ensure compliance with architecture standards.
 - Designed and implemented the project's foundation for microservices orchestration with Kubernetes based on GitOps.
-- Served as a technical reference for both the client and various technical teams within the organization.
+- Served as a technical reference for both the client and various technical teams within their organization.
 
 **NTTDATA | Architect**
 *Dec. 2019 - Sep. 2021*
@@ -21,7 +21,7 @@ Throughout my journey, I have been involved in various stages of software develo
 
 **NTTDATA | Solutions Assistant**
 *Nov. 2017 - Dec. 2019*
-- Developed cross-cutting microservices.
+- Developed cross-functional microservices.
 - Managed and configured the continuous integration cycle.
 - Evolved client's architecture tools.
 

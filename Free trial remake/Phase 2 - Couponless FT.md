@@ -18,3 +18,4 @@ We will need to go over all the places where we expect an FT coupon and change t
 The only places I can think of now are:
 - `freeTrialDuration` property in a user's subscriptions
 - `freeTrialDuration` property in purchase previews
+

@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-plantuml",
-  "obsidian-linter"
+  "obsidian-linter",
+  "dataview",
+  "obsidian-day-planner"
 ]

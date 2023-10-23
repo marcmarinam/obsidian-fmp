@@ -1,1 +1,0 @@
-- Allow toggles to be accessed in titan without a hook

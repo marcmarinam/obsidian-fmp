@@ -1,2 +1,2 @@
 ### Criteria
-1. Offer credit cardless free trial to users
+	1. Offer credit cardless free trial to users

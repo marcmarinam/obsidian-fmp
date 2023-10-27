@@ -9,4 +9,4 @@ We'll default to 3-day UK 1 Month Pro.
 - It should have some sort of eligibility validation.
 - Basic success & failure screens.
 #### FT Extension
-We'll use the existing billing info update flow in Titan to tr
+We'll use the existing billing info update flow in Titan and then we'll trigger the extension from the backend.

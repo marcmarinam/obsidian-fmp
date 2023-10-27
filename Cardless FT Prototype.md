@@ -10,3 +10,5 @@ We'll default to 3-day UK 1 Month Pro.
 - Basic success & failure screens.
 #### FT Extension
 We'll use the existing billing info update flow in Titan and then we'll trigger the extension from the backend.
+##### Data needed
+- Whether or not the user is on a cardless free trial.

@@ -1,4 +1,6 @@
-How to get a full working flow in the frontend
+### How to use
+1. Set `_integrationLdKey` cookie to `cardless-ft-prototype-on`.
+2. Navigate to ``
 ### Eligibility
 If the toggle is on for the prototype, we'll assume the user is eligible.
 ### Frontend

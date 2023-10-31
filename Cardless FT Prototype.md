@@ -1,10 +1,3 @@
-- [How to use](#How%20to%20use)
-- [Eligibility](#Eligibility)
-- [Frontend](#Frontend)
-	- [Claiming cardless FT](#Claiming%20cardless%20FT)
-	- [FT Extension](#FT%20Extension)
-		- [Data needed](#Data%20needed)
-
 ### How to use
 1. Set `_integrationLdKey` cookie to `cardless-ft-prototype-on`.
 2. Navigate to `/cardless-ft`.

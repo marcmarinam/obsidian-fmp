@@ -5,5 +5,7 @@
 - Add a new `CARDLESS` free trial origin.
 - Call the `feature-entitlements` service.
 #### Titan
+### User comms
+How do we tell the user they can extend the free trial by adding billing information.
 ### Extending the free trial
 By adding billing information.

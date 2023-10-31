@@ -6,6 +6,7 @@
 - Call the `feature-entitlements` service.
 #### Titan
 ### User comms
-How do we tell the user they can extend the free trial by adding billing information.
+How do we tell the user they can extend the free trial by adding billing information?
 ### Extending the free trial
-By adding billing information.
+#### Ecomm-gate
+Adding a free trial extension to the b

@@ -11,4 +11,4 @@ How do we tell the user they can extend the free trial by adding billing informa
 #### Ecomm-gate
 Adding a free trial extension to the billing info update workflow.
 #### Titan
-Updating/adding copy mentioning the extension in the `/account/subscription` 
+Updating/adding copy mentioning the extension in the `/account/subscription` and `/card-update` pages.

@@ -1,6 +1,7 @@
 ### How to use
 1. Set `_integrationLdKey` cookie to `cardless-ft-prototype-on`.
-2. Navigate to ``
+2. Navigate to `/cardless-ft`.
+3. Click the button.
 ### Eligibility
 If the toggle is on for the prototype, we'll assume the user is eligible.
 ### Frontend

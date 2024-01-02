@@ -1,2 +1,0 @@
-- Indemnity insurance
-- Resignation letter

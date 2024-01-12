@@ -1,1 +1,1 @@
-- How do we discern GEDCOM users?
+- How do we distinguish GEDCOM users?

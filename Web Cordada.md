@@ -1,0 +1,3 @@
+### Afegir informacio
+- Strapi
+- 

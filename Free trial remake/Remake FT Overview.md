@@ -20,3 +20,5 @@ This remake is divided into two pieces of work:
 - [LAB-663 New FT mutations](LAB-663%20New%20FT%20mutations.md)
 ### Post-remake work
 * Implement each journey in ecomm-gate
+
+Free trial remake

@@ -4,4 +4,4 @@
 	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration errors, etc.
 - Being the point of contact to debug experimentation issues.
 	- Helping other teams solve allocation and tracking issues multiple times.
-- Facilitated a migration to snowplow exper
+- Assisted the data science team with the migration to snowplow experiment tracking.

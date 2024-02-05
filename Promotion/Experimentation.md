@@ -1,4 +1,7 @@
 - Maintained and improved the `useExperiment` hook since its creation.
 - Refactored how we inject experiment data into Titan.
 	- Cut the number of variants needed by half.
-	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration
+	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration errors, etc.
+- Being the point of contact to debug experimentation issues.
+	- Helping other teams solve allocation and tracking issues multiple times.
+- Facilitated a migration to snowplow exper

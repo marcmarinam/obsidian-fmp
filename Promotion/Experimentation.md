@@ -1,2 +1,4 @@
 - Maintained and improved the `useExperiment` hook since its creation.
-- Refactored how we inject experiment data into Titan to reduce the number of variants needed by ha
+- Refactored how we inject experiment data into Titan.
+	- Cut the number of variants needed by half.
+	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration

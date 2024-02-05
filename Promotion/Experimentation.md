@@ -1,1 +1,2 @@
-Experimentation
+- Maintained and improved the `useExperiment` hook since its creation.
+- Refactored how we inject experiment data into Titan to reduce the number of variants needed by ha

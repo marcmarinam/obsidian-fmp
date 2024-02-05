@@ -1,2 +1,3 @@
 - Worked on the architecture proposal to transition to couponless free trials in two phases.
 - Led Phase 2 from start to finish.
+	- 

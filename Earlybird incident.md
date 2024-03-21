@@ -10,3 +10,5 @@ A total of 34 customers got free subscriptions.
 ### Business impact
 Loss of revenue around £4400.
 Customer support has to deal with the subscriptions.
+### Actions
+Monitor renewals for pricing anomalies.

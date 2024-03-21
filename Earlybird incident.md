@@ -6,5 +6,5 @@ Customers were able to convert free trial subscriptions to regular paid subscrip
 ### Cause
 There was a mismatch between subscription plan and currency in both earlybird workflows (preview & purchase) that made it so the cost of the plan was 0.
 ### Customer impact
-A total of 
+A total of 34 customers got free subscriptions. Loss of revenue a
 ### Business impact

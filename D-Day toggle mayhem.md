@@ -7,7 +7,7 @@ We can create a second toggle that controls whether or not the experiment is ful
 During the free weekend:
 - `master-toggle`: Off.
 - `experiment-toggle`: UK 50/50.
-``
+
 When we want to launch the experiment:
 - `master-toggle`: On.
 - `experiment-toggle`: UK 50/50.

@@ -2,6 +2,14 @@ In order to send the correct email to each user in the experiment we need to kno
 
 The only way to get the variant for each user and have it not change is to have the experiment toggle enabled throughout the free weekend. That would mean we are showing the experiment to users before we actually want to. The solution is a second toggle.
 
-We can create a second toggle that controls whether or not the experiment is fully enabled. It could be an operational toggle. This is what the setup would look like:
+We can create a second toggle that controls whether or not the experiment is fully enabled. It could be an operational toggle. This is what the setup would look like.
 
-`master`
+During the free weekend:
+- `master-toggle`: Off.
+- `experiment-toggle`: UK 50/50.
+``
+When we want to launch the experiment:
+- `master-toggle`: On.
+- `experiment-toggle`: UK 50/50.
+
+It's important that we don't change t

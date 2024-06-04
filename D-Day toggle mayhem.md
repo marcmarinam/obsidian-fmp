@@ -12,4 +12,4 @@ When we want to launch the experiment:
 - `master-toggle`: On.
 - `experiment-toggle`: UK 50/50.
 
-It's important that we don't change t
+It's important that we don't change the rollout for the experiment toggle. I imagine any change to it will change what variants users are in.

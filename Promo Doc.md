@@ -18,4 +18,4 @@ You are a trusted influencer within your team and regularly use this position to
 - People often ask for my opinion when it comes to code structure, best practices and general advice.
 
 You're supporting the growth and development of your team, and individuals inside, or outside your team.
-- I try to not only offer solutions to my teammates
+- I try to not only offer solutions to my teammates but to also show my thought process to try and teach them why a solution works or is better than the alternative.

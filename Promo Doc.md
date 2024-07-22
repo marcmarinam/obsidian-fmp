@@ -9,8 +9,10 @@ You are an evangelist for consistent high-quality and efficient delivery within 
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
 
 You're likely to have ownership of various tools/systems/processes within your team.
+- Freemium system.
 
 You help others to deliver more value by sharing your expertise in certain technologies/processes.
+- Sharing backend & payment
 
 You are a trusted influencer within your team and regularly use this position to positively impact the team.
 

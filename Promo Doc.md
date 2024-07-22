@@ -15,5 +15,7 @@ You help others to deliver more value by sharing your expertise in certain techn
 - Sharing backend & payment expertise with less experienced teammates.
 
 You are a trusted influencer within your team and regularly use this position to positively impact the team.
+- People often ask for my opinion when it comes to code structure, best practices and general advice.
 
 You're supporting the growth and development of your team, and individuals inside, or outside your team.
+- I try to not only offer solutions to my teammates

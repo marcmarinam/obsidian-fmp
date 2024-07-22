@@ -12,7 +12,7 @@ You're likely to have ownership of various tools/systems/processes within your t
 - Freemium system.
 
 You help others to deliver more value by sharing your expertise in certain technologies/processes.
-- Sharing backend & payment
+- Sharing backend & payment expertise with less experienced teammates.
 
 You are a trusted influencer within your team and regularly use this position to positively impact the team.
 

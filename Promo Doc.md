@@ -1,9 +1,10 @@
 You can lead confidently in tackling some of the most complex or challenging technical problems faced by your team, from design and planning to implementation.
 - Led the scaffolding of the freemium system.
 - Led the free trial remake.
-- Singlehandedly 
+- Singlehandedly worked on Premium Free Trial. 
 
 You are an evangelist for consistent high-quality and efficient delivery within your team.
+- 
 
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
 

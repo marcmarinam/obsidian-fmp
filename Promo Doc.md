@@ -4,10 +4,13 @@ You can lead confidently in tackling some of the most complex or challenging tec
 - Led the free trial remake Phase 2.
 - Singlehandedly worked on Premium Free Trial.
 
+
 You are an evangelist for consistent high-quality and efficient delivery within your team.
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.
 
+
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
+
 
 You're likely to have ownership of various tools/systems/processes within your team.
 - Freemium system.

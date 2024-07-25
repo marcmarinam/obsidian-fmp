@@ -4,7 +4,7 @@ You can lead confidently in tackling some of the most complex or challenging tec
 - Singlehandedly worked on Premium Free Trial. 
 
 You are an evangelist for consistent high-quality and efficient delivery within your team.
-- 
+- I have created several hooksa nd
 
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
 

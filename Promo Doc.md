@@ -27,3 +27,5 @@
 ### How to write things
 1. Write tasks I've been involved in
 2. What part was I working on
+3. How much impact did the work have
+	1. This can be reach or actual outcomes for the company

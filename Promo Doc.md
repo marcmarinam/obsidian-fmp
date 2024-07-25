@@ -20,3 +20,5 @@
 
 **You're supporting the growth and development of your team, and individuals inside, or outside your team.**
 - I try to not only offer solutions to my teammates but to also show my thought process to try and teach them why a solution works or is better than the alternative.
+- Experimentation guide.
+- Experimentation help.

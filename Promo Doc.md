@@ -1,8 +1,8 @@
 You can lead confidently in tackling some of the most complex or challenging technical problems faced by your team, from design and planning to implementation.
 - Led the scaffolding of the freemium system.
 	- Worked on the Architecture Proposal.
-- Led the free trial remake.
-- Singlehandedly worked on Premium Free Trial. 
+- Led the free trial remake Phase 2.
+- Singlehandedly worked on Premium Free Trial.
 
 You are an evangelist for consistent high-quality and efficient delivery within your team.
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.

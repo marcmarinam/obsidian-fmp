@@ -22,3 +22,8 @@
 - I try to not only offer solutions to my teammates but to also show my thought process to try and teach them why a solution works or is better than the alternative.
 - Experimentation guide.
 - Experimentation help.
+
+
+### How to write things
+1. Write tasks I've been involved in
+2. What part was I working on

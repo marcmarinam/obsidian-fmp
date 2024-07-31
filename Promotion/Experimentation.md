@@ -4,6 +4,6 @@
 	- Cut the number of variants needed by half.
 	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration errors, etc.
 - Being the point of contact to debug experimentation issues.
-	- Helping other teams solve allocation and tracking issues multiple times.
+	- Helping other teams accross teh solve allocation and tracking issues multiple times.
 	- Set up multiple experiments for other teams when they have needed help.
 - Assisted the data science team with the migration to snowplow experiment tracking.

@@ -4,4 +4,3 @@ Scaffolded the freemium system:
 - Converted the service to a monorepo with multiple services.
 	- Set up TeamCity to accommodate the monorepo structure in its pipelines.
 - Created the shared package structure to allow all the apps in the repo to have shared logic.
-

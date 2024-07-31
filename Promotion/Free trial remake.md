@@ -5,7 +5,8 @@ We started using user journeys to set different free trial lengths and eligibili
 
 Work I was involved in:
 - Enabling dynamic length free trials in titan and ecomm-gate.
-- Migrated queries to th
+- Migrated eligibility logic from titan to ecomm-gate.
+- Mapped different journeys to specific FT coupons.
 
 #### Phase 2
 Migrating from coupon-based free trials to coupon-less free trials. This allowed us to run experiments with any free trial lengths

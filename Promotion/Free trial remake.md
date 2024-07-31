@@ -11,5 +11,8 @@ Work I was involved in:
 #### Phase 2
 Migrating from coupon-based free trials to coupon-less free trials. This allowed us to run experiments with any free trial lengths.
 
+In order to allow data analysis we had to store free trial purchases in a database so we could know what journey a free trial was acquired from.
+
 Work I was involved in:
-- Migration from coupons to 
+- Migration from coupons to couponless.
+- Developed the storage solution for all free trial purchases.

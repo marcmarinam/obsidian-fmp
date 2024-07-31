@@ -1,5 +1,5 @@
 - Maintained and improved the `useExperiment` hook since its creation.
-	- This hook was used by every team that was doing experimentation. Almost every
+	- This hook was used by every team that was doing experimentation. Almost every team in the company.
 - Refactored how we inject experiment data into Titan.
 	- Cut the number of variants needed by half.
 	- Added significant instrumentation and Grafana boards to all experiments to allow the monitoring of variant allocation, registration errors, etc.

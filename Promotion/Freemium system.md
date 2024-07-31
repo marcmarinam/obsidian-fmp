@@ -14,4 +14,5 @@ Benefits:
 Work:
 - Worked on the architecture proposal.
 	- Handled discussion on discourse.
-	- Hosted architecture review mee
+	- Hosted architecture review meeting.
+- Integrated freemium with CEP Gate and Iterable.

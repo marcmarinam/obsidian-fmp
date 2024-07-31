@@ -10,3 +10,8 @@ Scaffolded the freemium system:
 Benefits:
 - Enabler for the cardless free trial experiment.
 - 
+
+Work:
+- Worked on the architecture proposal.
+	- Handled discussion on discourse.
+	- Hosted architecture review mee

@@ -9,7 +9,7 @@ Scaffolded the freemium system:
 
 Benefits:
 - Enabler for the cardless free trial experiment.
-- 
+- Enabler for the free hints experiment.
 
 Work:
 - Worked on the architecture proposal.

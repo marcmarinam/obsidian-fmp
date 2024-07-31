@@ -7,7 +7,7 @@
 **You are an evangelist for consistent high-quality and efficient delivery within your team.**
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.
 
-**You look beyond short-term deliverables, helping the team manage their long-term** responsibilities.
+**You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
 
 **You're likely to have ownership of various tools/systems/processes within your team.**
 - Freemium system.

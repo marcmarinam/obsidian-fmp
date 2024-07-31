@@ -16,3 +16,4 @@ In order to allow data analysis we had to store free trial purchases in a databa
 Work I was involved in:
 - Migration from coupons to couponless.
 - Developed the storage solution for all free trial purchases.
+- Handled the launch of the remake and cleanup post-launch.

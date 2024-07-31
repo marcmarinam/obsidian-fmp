@@ -12,4 +12,4 @@ Work I was involved in:
 Migrating from coupon-based free trials to coupon-less free trials. This allowed us to run experiments with any free trial lengths.
 
 Work I was involved in:
-- 
+- Migration from coupons to 

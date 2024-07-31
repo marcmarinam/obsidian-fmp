@@ -11,4 +11,5 @@ Work I was involved in:
 #### Phase 2
 Migrating from coupon-based free trials to coupon-less free trials. This allowed us to run experiments with any free trial lengths.
 
-
+Work I was involved in:
+- 

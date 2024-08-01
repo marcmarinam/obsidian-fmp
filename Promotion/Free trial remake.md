@@ -2,7 +2,7 @@
 It allowed us to iterate and release experiments weekly based on different free trial journeys and durations. Tailored to specific customer experiences. This resulted in an increase of free trial uptakes and conversions (ADD REAL METRICS).
 
 ### Section 3 - Long term thinking
-The work of phase 2 was carefully planned out to enable a lot of experiments in the future.
+The work of phase 2 was carefully planned out to enable flexibility in experiments and features in the future.
 
 #### Phase 1
 We moved on from the usual 14-day free trial to offer customers any free trial length. This was a major task because a 14-day free trial had been the standard for years and was challenging to change.

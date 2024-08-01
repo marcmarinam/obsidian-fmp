@@ -1,6 +1,6 @@
 ## This belongs in section 1
 Focus on the impact the work had.
-It allowed us to iterate and release experiments weekly based on different free trial journeys and durations. Tailored to specific customer experiences.
+It allowed us to iterate and release experiments weekly based on different free trial journeys and durations. Tailored to specific customer experiences. This resulted in an increase of free trial uptakes and coversions (ADD REAL METRICS).
 #### Phase 1
 We moved on from the usual 14-day free trial to offer customers any free trial length. This was a major task because a 14-day free trial had been the standard for years and was challenging to change.
 

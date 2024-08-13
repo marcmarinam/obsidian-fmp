@@ -20,7 +20,8 @@
 
 **You're supporting the growth and development of your team, and individuals inside, or outside your team.**
 - I try to not only offer solutions to my teammates but to also show my thought process to try and teach them why a solution works or is better than the alternative.
-- Experimentation guide.
+- **Experimentation guide.**
+  I wrote the Titan experimentation guide, where I detailed all the necessary steps to get an experiment up and running. It contained steps to 
 ### How to write things
 1. Write tasks I've been involved in
 2. What part was I working on

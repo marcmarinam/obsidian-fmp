@@ -20,6 +20,5 @@
 - People often ask for my opinion when it comes to code structure, best practices and general advice.
 
 **7 - You're supporting the growth and development of your team, and individuals inside, or outside your team.**
-- I not only offer solutions to my teammates but also show my thought process to try and teach them why a solution works or is better than the alternative.
 - I wrote the Titan experimentation guide, where I detailed all the necessary steps to get an experiment up and running. It contained steps to create the release toggles, setting up the tracking in Google Optimize, how to work with variants in the code, best practices, where to find metrics, etc. I also assisted several teams in the creation of experiments as well as debugging issues that appeared while they were running. Most notably the Goose team.
 - Offered a lot of guidance to my teammates when they struggled to understand certain topics or technologies. The person I've helped the most is Morag. She joined the team as a Junior and I helped her a lot by breaking down our processes, technologies, ways of working, problem-solving, etc. Since then she has been promoted to Software Engineer.

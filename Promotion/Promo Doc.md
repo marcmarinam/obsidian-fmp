@@ -14,6 +14,7 @@
 
 **5 - You help others to deliver more value by sharing your expertise in certain technologies/processes.**
 - Sharing backend & payment expertise with less experienced teammates.
+- Refactored the experimentation framework to reduce the number of LaunchDarkly variants needed by half. This reduced release issues and simplified the experiment development tasks.
 
 **6 - You are a trusted influencer within your team and regularly use this position to positively impact the team.**
 - People often ask for my opinion when it comes to code structure, best practices and general advice.

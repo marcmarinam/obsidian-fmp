@@ -15,7 +15,7 @@
 
 **4 - You're likely to have ownership of various tools/systems/processes within your team.**
 - Everyone in our team maintains the freemium system, but I am usually the point of contact for big changes. These changes include setting up new services within the monorepo, working with pipelines, architectural/design changes, etc.
-- Since I was the one who refactored the experimentation framework, I am the point of contact when debugging issues, consulting new needs for the framework, migrations, etc. I assisted several teams with debug
+- Since I was the one who refactored the experimentation framework, I am the point of contact when debugging issues, consulting new needs for the framework, migrations, etc. I assisted several teams with setting up/debugging experiments. As well as the data science team when they migrated from Google Tag Manager to Snowplow tracking.
 
 **5 - You help others to deliver more value by sharing your expertise in certain technologies/processes.**
 - Sharing backend & payment expertise with less experienced teammates.

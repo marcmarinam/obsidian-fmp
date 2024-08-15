@@ -24,7 +24,7 @@
 - Refactored the experimentation framework to reduce the number of LaunchDarkly variants needed by half by injecting Google Optimize experiment IDs in code instead of LD variants. This reduced release issues and simplified the experiment development tasks. I also added Grafana dashboards that tracked experiment allocation automatically for every new experiment released.
 
 **6 - You are a trusted influencer within your team and regularly use this position to positively impact the team.**
-- People often ask for my opinion when it comes to code structure, best practices and general advice.
+- People often ask for my opinion when it comes to code structure, best practices and general advice, especially when it comes to back-end work. S
 
 **7 - You're supporting the growth and development of your team, and individuals inside, or outside your team.**
 - I wrote the Titan experimentation guide, where I detailed all the necessary steps to get an experiment up and running. It contained steps to create the release toggles, setting up the tracking in Google Optimize, how to work with variants in the code, best practices, where to find metrics, etc. I also assisted several teams in the creation of experiments as well as debugging issues that appeared while they were running. Most notably the Goose team.

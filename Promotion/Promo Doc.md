@@ -4,7 +4,7 @@
 	- Created the Freemium Rules Runner service, a Kafka consumer that deals with Reward logic, creating rewards based on user actions.
 	- Created the Freemium GDPR service, which handles GDPR deletion requests.
 	- Worked on the freemium architecture proposal. From creating the document to handling the proposal review meeting and creating tickets to implementing changes suggested in the review.
-- Worked extensively on the free trial remake and led Phase 2 of it.
+- Worked extensively on the free trial remake and led Phase 2 of it. The remake consisted of changing free trial logic to move from a 14-day free trial to any length. This was a significant task because 14-day had been the standard for years.
 - Singlehandedly worked on Premium Free Trial.
 
 **2 - You are an evangelist for consistent high-quality and efficient delivery within your team.**

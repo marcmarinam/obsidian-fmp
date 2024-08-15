@@ -12,7 +12,7 @@
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.
 
 **3 - You look beyond short-term deliverables, helping the team manage their long-term responsibilities.**
-- During the planning of Phase 2 of the FT Remake I made sure that we would be future-proofing the work. By carefully picking what data we were storing and how, we made it so future experiments needed little to no work on the backend to enable new jour
+- During the planning of Phase 2 of the FT Remake I made sure that we would be future-proofing the work. By carefully picking what data we were storing and how, we made it so future experiments needed little to no work on the backend to enable new free trial journeys.
 
 **4 - You're likely to have ownership of various tools/systems/processes within your team.**
 - Everyone in our team maintains the freemium system, but I am usually the point of contact for big changes. These changes include setting up new services within the monorepo, working with pipelines, architectural/design changes, etc.

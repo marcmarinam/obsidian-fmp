@@ -14,7 +14,7 @@
 **3 - You look beyond short-term deliverables, helping the team manage their long-term responsibilities.**
 
 **4 - You're likely to have ownership of various tools/systems/processes within your team.**
-- Everyone in our team maintains the freemium system, but I am usually the point of contact for big changes. These changes include setting up new services, changing pipelines, architectural/design changes, 
+- Everyone in our team maintains the freemium system, but I am usually the point of contact for big changes. These changes include setting up new services within the monorepo, working with pipelines, architectural/design changes, 
 
 **5 - You help others to deliver more value by sharing your expertise in certain technologies/processes.**
 - Sharing backend & payment expertise with less experienced teammates.

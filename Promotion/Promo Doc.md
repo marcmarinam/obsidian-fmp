@@ -3,7 +3,7 @@
 	- Created the Freemium API service, a TS + GraphQL API that is stitched with titan marshal.
 	- Created the Freemium Rules Runner service, a Kafka consumer that deals with Reward logic, creating rewards based on user actions.
 	- Created the Freemium GDPR service, which handles GDPR deletion requests.
-- Worked on the freemium architecture proposal.
+- Worked on the freemium architecture proposal. From the creation of the document to handling the proposal review meeting and creating tickets to implement changes that were suggested in the review.
 - Led the free trial remake Phase 2.
 - Singlehandedly worked on Premium Free Trial.
 

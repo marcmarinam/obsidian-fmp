@@ -1,5 +1,5 @@
 **1 - You can lead confidently in tackling some of the most complex or challenging technical problems faced by your team, from design and planning to implementation.**
-- Scaffolded the freemium system using the microservice generator and brought it up to production. Conve
+- Scaffolded the freemium system using the microservice generator and brought it up to production. Converted the repo into a monorepo with multiple services, set up the pipelines to accommodate the new structure, created shared packages to simplify the 
 - Led the scaffolding of the freemium system.
 	- Worked on the Architecture Proposal.
 - Led the free trial remake Phase 2.

@@ -10,7 +10,7 @@
 
 **2 - You are an evangelist for consistent high-quality and efficient delivery within your team.**
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.
-- I have constantly gone back to areas of the product that we have worked with and tried to improve the code. When we started having multiple free trial jour
+- I have constantly gone back to areas of the product that we have worked with and tried to improve the code. When we started having multiple free trial journeys, I gathered all the scattered logic and brought it into a common package where it would be easier to work on. I also added unit tests that would automatically test everything belonging to a journey wit
 
 **3 - You look beyond short-term deliverables, helping the team manage their long-term responsibilities.**
 - During the planning of Phase 2 of the FT Remake I made sure that we would be future-proofing the work. By carefully picking what data we were storing and how, we made it so future experiments needed little to no work on the backend to enable new free trial journeys.

@@ -5,8 +5,8 @@
 	- Created the Freemium GDPR service, which handles GDPR deletion requests.
 	- Worked on the freemium architecture proposal. From creating the document to handling the proposal review meeting and creating tickets to implementing changes suggested in the review.
 - Worked extensively on the free trial remake and led Phase 2 of it. The remake consisted of changing free trial logic to move from a 14-day free trial using coupons to any length free trial without coupons. This was a significant task because 14-day had been the standard for years.
-	- Phase 1: Moved on from the classic 14-day free trial to a variable 3, 7 or 14 day by introducing user journeys. These user journeys had specific eligibility criteria based on our needs for the product.
-	- Phase 2: Stopped using Recurly coupon codes to offer free trials. In order to enable data science to analyse experiments based on different journeys a storage solution had to be introduced. I designed the 
+	- Phase 1: Moved on from the classic 14-day free trial to a variable 3, 7 or 14 day by introducing user journeys. These user journeys had specific eligibility criteria based on our needs for the product. I added new queries to ecomm-gate that contained FT eligibility based on the user journey. I handlded
+	- Phase 2: Stopped using Recurly coupon codes to offer free trials. In order to enable data science to analyse experiments based on different journeys a storage solution had to be introduced. I designed the tables we would need to be able to track FT purchases and modified the purchase workflows to 
 
 **2 - You are an evangelist for consistent high-quality and efficient delivery within your team.**
 - I have created several hooks and utilities to help my teammates deliver code more easily and with better quality.

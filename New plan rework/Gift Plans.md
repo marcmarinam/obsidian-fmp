@@ -21,8 +21,8 @@
 | ID   | Duration  | Tier        | Accounting Code |
 | ---- | --------- | ----------- | --------------- |
 | 1196 | 1 Month   | Everything  | gua01           |
-| 1197 | 3 Months  | Everything  | gua01           |
-| 1198 | 6 Months  | Everything  | gua             |
+| 1197 | 3 Months  | Everything  | gua03           |
+| 1198 | 6 Months  | Everything  | gua06           |
 | 1199 | 12 Months | Everything  | gua12           |
 | 1200 | 1 Month   | Family Tree | gut01           |
 ### UK Plans

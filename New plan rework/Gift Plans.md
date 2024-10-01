@@ -29,8 +29,8 @@
 
 | ID   | Duration  | Tier        | Accounting Code |
 | ---- | --------- | ----------- | --------------- |
-| 1201 | 1 Month   | Everything  |                 |
-| 1202 | 3 Months  | Everything  |                 |
-| 1203 | 6 Months  | Everything  |                 |
-| 1204 | 12 Months | Everything  |                 |
+| 1201 | 1 Month   | Everything  | gfa01           |
+| 1202 | 3 Months  | Everything  | gfa03           |
+| 1203 | 6 Months  | Everything  | gfa06           |
+| 1204 | 12 Months | Everything  | gfa12           |
 | 1205 | 1 Month   | Family Tree |                 |

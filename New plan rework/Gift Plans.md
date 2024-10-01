@@ -1,8 +1,11 @@
 **IE Plans**
 
-| ID  | Name | Duration | Accounting Code |
-| --- | ---- | -------- | --------------- |
-|     |      |          |                 |
+| ID   | Duration | Tier       | Accounting Code |
+| ---- | -------- | ---------- | --------------- |
+| 1186 | 1 Month  | Everything |                 |
+| 1187 | 3 Month  | Everything |                 |
+| 1188 | 6 Month  | Everything |                 |
+| 1189 | 12 Month | Everything |                 |
 - 1 Month Everything: 1186
     
 - 3 Month Everything: 1187

@@ -1,3 +1,4 @@
+
 | Pregunta | Meva | Resposta | Correcte? |
 | -------- | ---- | -------- | --------- |
 | 1        | D    | D        | Y         |

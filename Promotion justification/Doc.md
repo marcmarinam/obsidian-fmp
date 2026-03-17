@@ -5,7 +5,8 @@ You can lead confidently in tackling some of the most complex or challenging tec
 
 ## 2. Ownership Promotion
 You actively promote ownership of tools, systems, and processes within your team.
-- Kn
+- Suggested using Knip to clean up dead code to great results
+- Suggested using Turbo to manage the new CEP monorepo and converted the FMP inte 
 
 ## 3. Long-term Thinking
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.

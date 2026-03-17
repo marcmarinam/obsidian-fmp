@@ -15,6 +15,7 @@ You work with others to influence and shape planned work and ensure it's aligned
 
 ## 5. Cross-team Collaboration
 You seek out areas of overlap with other projects/teams and work across boundaries to ensure plans are aligned.
+- User profile migration to global member id
 
 ## 6. Knowledge Sharing
 You help others to deliver more value by sharing your expertise in certain technologies and processes.

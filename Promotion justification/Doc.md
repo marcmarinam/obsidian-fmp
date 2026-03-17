@@ -32,6 +32,8 @@ You are an evangelist for consistent high-quality and efficient delivery within 
 
 ## 10. Engineering Excellence
 You can independently design and develop clean, durable engineering solutions.
+- Inbox dismiss work
+- BNA comms preferences
 
 ## 11. Evaluation & Prototyping
 You can confidently evaluate and prototype new approaches, technologies and platforms, promoting strong and informed decision-making.

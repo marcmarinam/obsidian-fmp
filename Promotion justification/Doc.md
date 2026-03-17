@@ -4,7 +4,7 @@ You can lead confidently in tackling some of the most complex or challenging tec
 - Consolidation of subservices in CEP Data Processor
 
 ## 2. Ownership Promotion
-You actively promote ownership of tools, systems, and processes within your team. 
+You actively promote ownership of tools, systems, and processes within your team.
 
 ## 3. Long-term Thinking
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.

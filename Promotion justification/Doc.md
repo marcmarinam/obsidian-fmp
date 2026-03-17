@@ -37,3 +37,4 @@ You can independently design and develop clean, durable engineering solutions.
 
 ## 11. Evaluation & Prototyping
 You can confidently evaluate and prototype new approaches, technologies and platforms, promoting strong and informed decision-making.
+- New monorepo approach

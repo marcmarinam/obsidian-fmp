@@ -11,6 +11,7 @@ You look beyond short-term deliverables, helping the team manage their long-term
 
 ## 4. Business Alignment
 You work with others to influence and shape planned work and ensure it's aligned with business priorities.
+- CEP Gate BNA implementation
 
 ## 5. Cross-team Collaboration
 You seek out areas of overlap with other projects/teams and work across boundaries to ensure plans are aligned.

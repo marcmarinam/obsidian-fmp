@@ -4,9 +4,7 @@ You can lead confidently in tackling some of the most complex or challenging tec
 - Consolidation of subservices in CEP Data Processor
 
 ## 2. Ownership Promotion
-You actively promote ownership of tools, systems, and processes within your team.
-- Suggested using Knip to clean up dead code to great results
-- Suggested using Turbo to manage the new CEP monorepo and converted the FMP inte 
+You actively promote ownership of tools, systems, and processes within your team. 
 
 ## 3. Long-term Thinking
 You look beyond short-term deliverables, helping the team manage their long-term responsibilities.
@@ -19,6 +17,7 @@ You seek out areas of overlap with other projects/teams and work across boundari
 
 ## 6. Knowledge Sharing
 You help others to deliver more value by sharing your expertise in certain technologies and processes.
+- Converted the internal tools repository into a proper monorepo to improve the development experience.
 
 ## 7. Trusted Influence
 You are a trusted influencer within your team and regularly use this position to positively impact the team.

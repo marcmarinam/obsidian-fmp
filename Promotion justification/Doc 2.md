@@ -20,6 +20,7 @@
 - Shortly after joining the CEP codebase, identified deep-rooted tech debt and architectural problems and proposed the full rewrite rather than accumulating more incremental fixes
 - Performed independent refactors to ease the transition to multi-brand support ahead of it becoming urgent
 - Had significant input in planning both the CEP rewrite roadmap and the BNA migration plan
+- Invested in the team's long-term capability by developing junior engineers to the point of promotion, strengthening the team beyond immediate deliverables
 
 ---
 
@@ -43,6 +44,7 @@
 - Converted the internal tools repository into a proper monorepo, ran a walkthrough for the team, explained decisions in PR reviews, and remained the go-to person for questions
 - Regularly shared knowledge in planning meetings and pairing/mobbing sessions, particularly in areas teammates were less familiar with
 - Primary team expert in monorepo tooling (Turborepo/Yarn PnP), Kubernetes deployments, and Prometheus/Grafana observability — knowledge reinforced by running a personal homelab K8s cluster
+- Acted as a long-running source of knowledge for less-experienced engineers, sustaining their development over months rather than answering isolated questions
 
 ---
 

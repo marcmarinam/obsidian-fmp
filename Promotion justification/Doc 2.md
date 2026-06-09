@@ -52,7 +52,7 @@
 
 - Regularly sought out by teammates and seniors for opinions on technical decisions, architecture, and tooling
 - Successfully challenged a senior's preference for incremental CEP updates, argued for a full rewrite, and brought the whole team around to that position
-- Proposed the embedded messages architecture that front-loaded engineering work but eliminated ongoing CRM setup overhead, with full content flexibility and validation
+- Proposed the embedded messages architecture that front-loaded engineering work but eliminated ongoing CRM setup overhead, with full content flexibility and Zod validation to ensure campaigns run as intended
 - Championed Turborepo as the monorepo tool — introduced it, demonstrated prior examples, and the team adopted it successfully
 
 ---

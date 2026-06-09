@@ -57,6 +57,8 @@
 
 **8. Growth & Mentorship** _You are supporting the growth and development of your team, and individuals inside or outside your team._
 
+- Mentored more than one junior engineer from the point they joined the company through to their promotion, supporting their growth over an extended period rather than through one-off help
+- Helped a mid-level engineer deepen their understanding across a wide range of concepts — showing I can mentor and grow peers at my own level, not only those more junior than me
 - Regularly supported peers working in unfamiliar areas through pairing and mobbing sessions, explaining concepts on demand, and unblocking them when stuck
 
 ---

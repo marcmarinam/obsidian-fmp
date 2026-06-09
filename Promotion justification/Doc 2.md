@@ -27,7 +27,7 @@
 **4. Business Alignment** _You work with others to influence and shape planned work and ensure it's aligned with business priorities._
 
 - Led the technical design and implementation of CEP Gate's BNA (British Newspaper Archive) integration — the largest company-wide objective in recent years — while surfacing and managing risks throughout
-- Worked proactively with other teams to ensure our systems exposed what they needed to meet their own objectives, gathering requirements and planning the work
+- Worked proactively with other teams to ensure our systems exposed what they needed to meet their own objectives, gathering requirements and planning the work. Prepared user-profile to enable multi-brand support for other features in the site.
 
 ---
 

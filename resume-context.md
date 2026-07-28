@@ -50,11 +50,56 @@ integration/customer-facing emphasis) without changing the core narrative.
    worth the space. Marked `_(ongoing, periodic)_` since the guild work recurs
    roughly every 1–2 months for a few days at a time, not a one-off.
 
+## Resolved (2026-07-28, continued — mock-interview pass)
+Ran a full mock-interview drill across every FMP bullet to test whether the CV
+reads senior enough. Every story held up under pushback; the gap was narration
+(leading with situation, not decision), not competence. Applied CV edits to
+surface the decisions once found:
+5. **Multi-brand bullet** — now names the actual decision (temporarily extended
+   the schema for legacy account data rather than dropping unmapped fields, to
+   guarantee zero data loss).
+6. **CEP monorepo bullet** — now credits the leadership mechanism (mobbed with
+   the team to establish the pattern, then reviewed migrations for consistency)
+   instead of just "led."
+7. **Iterable bullet** — now credits two previously-uncredited builds: in-house
+   dismiss-state tracking (Iterable's own dismiss logic wasn't permanent/
+   cross-device) and Zod-based schema validation with alert-on-threshold
+   (Iterable allows arbitrary JSON; thresholded rather than alerting on every
+   failure since engagement-team testing accounts throw expected failures).
+8. **Kubernetes bullet** — now names the actual root cause found and fixed:
+   `maxUnavailable` = full pod count + missing/misconfigured readiness probes
+   let bad deploys register as "ready" before serving traffic. Fix was scoped
+   to Kafka consumers only (switched to Recreate + real probes; brief downtime
+   there was already expected/acceptable) — RollingUpdate was kept for
+   client-facing services. This scoping detail didn't make the CV bullet
+   (kept short) but is worth having ready verbally.
+9. **New bullet added — internal A/B testing framework** (previously not on
+   the CV at all). Built frontend hooks (toggle/experiment-id fetching,
+   variant serving) + backend support for dynamic free-trial length; adopted
+   company-wide beyond Marc's own team. Flagship experiment: refactored a
+   hardcoded 14-day free trial into a dynamic, journey-based length (e.g.
+   3 days for search-heavy "hardcore" users, 7 for newbies), worked with data
+   science on segmentation — **~40% conversion boost, all-time monthly record
+   for trial starts**. This is arguably the strongest single story from the
+   whole interview drill.
+10. **Earlier-tenure bullet merged, not dropped** — Marc wanted room for the
+    A/B testing bullet but was firm that the e-commerce/payments-migration
+    story stay (it's a strong, high-stakes story on its own — phased cutover,
+    vendor-assisted bulk migration, honest about a caching hiccup post-launch).
+    Resolved by merging the migration bullet and the A/B testing framework
+    into one earlier-tenure bullet (chronologically sequential: migration
+    was year 1, experimentation was years 2–3, CRM/Iterable is years 4–5 —
+    confirmed no timeline overlap with the "last two years" Iterable claim).
+    Dropped the Cypress/Selenium/Jest stack detail to make room — least
+    distinctive part of the original bullet.
+
 ## Suggested next steps
 - Cold re-read on a full screen with fresh eyes — **done twice** (initial pass +
   post-Innovation-Guild pass); Marc is now checking a PDF preview himself.
 - Regenerate PDF once Marc confirms the preview looks right.
 - Optional: a Topsort-tailored variant (surface REST/API integration + ownership
   language; likely drop the homelab section for that version).
+- Consider a fresh cold read now that 5 bullets changed/were added in the
+  mock-interview pass — page length/density hasn't been rechecked since.
 
 

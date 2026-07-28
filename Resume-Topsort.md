@@ -25,6 +25,7 @@ Joined as a Junior Engineer and grew into a mid-level engineer leading platform 
 - **Drive CRM-led engagement and retention** through the Iterable integration (in-app + email) and a Snowplow Signals pipeline (early pilot deployment) building per-user behaviour profiles — powering targeted nudges based on real usage. My main focus for the last two years.
 - **Led the rewrite of CEP into a Turborepo monorepo** — brought the team up to speed via mobbing, then reviewed migrations for consistency across 10+ workspaces.
 - **Own platform reliability on Kubernetes** — including root-causing and fixing a deployment misconfiguration that let unhealthy releases pass as ready; production observability via Prometheus/Grafana with SLO tracking, where none existed before.
+- **Took AI-driven tools from proof-of-concept to production** in the Innovation Guild — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts; both shipped to real users.
 - _(Earlier tenure)_ Launched a subscriptions/micropayments platform and led the legacy migration, integrating an external payment provider (Kafka, Redis).
 
 _Stack: TypeScript, Node.js, GraphQL/Apollo, REST integrations (Iterable, Snowplow, payment providers), Kafka, Redis, Kubernetes, Turborepo_

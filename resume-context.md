@@ -93,13 +93,42 @@ surface the decisions once found:
     Dropped the Cypress/Selenium/Jest stack detail to make room — least
     distinctive part of the original bullet.
 
+## Resolved (2026-07-28, continued — Snowplow bullet + final cold reads)
+11. **New bullet added — Snowplow Signals pipeline** (previously not on the CV,
+    surfaced in a further mock-interview round). Findmypast was an early pilot
+    customer; fed back product gaps (coarse event aggregation) that Snowplow
+    shipped fixes for (added finer-grained field grouping). Used it to build
+    per-user behaviour profiles (search frequency, hint engagement) driving
+    targeted in-app/email nudges — e.g. surfacing a "relevant hints" homepage
+    tile to users showing sustained hint engagement, reinforcing a
+    accept-hints → tree-grows → more-hints-available loop. No hard numbers
+    given (Marc chose not to include any), kept qualitative.
+12. **Iterable bullet trimmed** — dropped the in-house dismiss-state tracking
+    detail per Marc's call ("not that important, the important part is user
+    engagement with CRM"); reframed opener around engagement rather than
+    infrastructure. Schema validation detail kept.
+13. **Snowplow given its own bullet** rather than folded into the Iterable
+    bullet — Marc judged it important enough to stand alone despite page
+    density. Total FMP bullets is now 7 (plus the earlier-tenure line) —
+    Marc was told Innovation Guild is the weakest/most cuttable bullet if
+    the PDF preview shows it's too dense, but chose to keep it for now.
+14. **Tense-consistency fix** — the Snowplow bullet originally opened with
+    "Built" (past tense), breaking the deliberate grouping of present-tense
+    "current ownership" bullets (Own/Operate/Build-in-Guild) vs past-tense
+    "completed initiatives" bullets (Architected/Led/Established). Changed to
+    "Run a Snowplow Signals pipeline..." to match. Also fixed a missing comma
+    after "(Iterable)" in the Iterable bullet, and avoided reusing "Built" as
+    the lead verb in two different bullets.
+
 ## Suggested next steps
-- Cold re-read on a full screen with fresh eyes — **done twice** (initial pass +
-  post-Innovation-Guild pass); Marc is now checking a PDF preview himself.
+- Cold re-read on a full screen with fresh eyes — **done multiple times**,
+  most recently after the Snowplow bullet split; all caught issues resolved.
 - Regenerate PDF once Marc confirms the preview looks right.
 - Optional: a Topsort-tailored variant (surface REST/API integration + ownership
   language; likely drop the homelab section for that version).
-- Consider a fresh cold read now that 5 bullets changed/were added in the
-  mock-interview pass — page length/density hasn't been rechecked since.
+- **Page density**: FMP section is now 7 bullets + earlier-tenure line — the
+  densest it's been. If it ever needs trimming, Innovation Guild is the
+  agreed first cut (only bullet without a decision/outcome behind it from
+  the mock-interview drill).
 
 

@@ -20,11 +20,11 @@ _2021 – Present · Remote (Spain) from 2023; previously London, UK_
 
 Joined as a Junior Engineer and grew into a mid-level engineer, owning platform-level work — first on E-Commerce, then on the Customer Engagement Platform (CEP).
 
-- **Architected multi-brand support** so multiple brands run on shared infrastructure and business logic instead of separate stacks — the platform was single-brand before.
-- **Led the rewrite of CEP into a Turborepo monorepo**, consolidating 10+ workspaces under unified tooling; used Knip for dead-code detection to smooth the migration and keep the result lean.
+- **Architected multi-brand support**, replacing single-brand-only services with shared infrastructure and business logic — including migrating legacy account data with zero loss by temporarily extending the schema rather than dropping unmapped fields.
+- **Led the rewrite of CEP into a Turborepo monorepo** — mobbed with the team to establish the pattern, then reviewed migrations for consistency across 10+ workspaces; used Knip for dead-code detection to keep the result lean.
 - **Established production observability** — custom Prometheus histogram metrics, Grafana dashboards, and SLO tracking via histogram bucket ratios on Kubernetes, where no SLOs existed before.
-- **Own the CRM and messaging integration (Iterable)** behind in-app messaging and email campaigns across the platform — my main focus for the last two years.
-- **Operate services on Kubernetes** — HPA tuning, graceful shutdown, rolling updates, and Helm charts.
+- **Own the CRM and messaging integration (Iterable)** behind in-app messaging and email campaigns — built in-house dismiss-state tracking and Zod-based schema validation to cover gaps in Iterable's own logic; my main focus for the last two years.
+- **Operate services on Kubernetes** — found and fixed a deployment misconfiguration letting unhealthy releases register as "ready"; also HPA tuning, graceful shutdown, and Helm charts.
 - **Build AI prototypes in the Innovation Guild** _(ongoing, periodic)_ — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts.
 - _(Earlier tenure)_ Launched a new subscriptions and micropayments platform and led the migration off the legacy system, integrating an external payment provider; Kafka for events, Redis for caching, and testing with Cypress/Selenium and Jest.
 

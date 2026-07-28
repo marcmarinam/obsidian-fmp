@@ -1,6 +1,6 @@
 # Marc Marina Miravitlles
 
-**Software Engineer, Integrations** — API-driven, commercial-outcome focused
+**Software Engineer** — API-driven, commercial-outcome focused
 
 Barcelona, Spain (Remote) · marc.marina.miravitlles@gmail.com · +34 648 439 648
 

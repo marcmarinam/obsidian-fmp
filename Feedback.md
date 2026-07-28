@@ -1,2 +1,0 @@
-- Balance my own work and helping others
-- 

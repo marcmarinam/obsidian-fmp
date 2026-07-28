@@ -1,3 +1,0 @@
-- [x] Ordenar clients
-- [x] Contingut pagina principal amb CMS
-- [x] Desactivar draft i publish

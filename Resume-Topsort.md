@@ -23,8 +23,7 @@ Joined as a Junior Engineer and grew into a mid-level engineer leading platform 
 - **Led an internal A/B testing framework**, adopted company-wide, to turn a hardcoded 14-day free trial into a dynamic, journey-based length — working with data science on user segmentation. Result: ~40% conversion boost and an all-time monthly record for free trial starts.
 - **Architected multi-brand support**, replacing single-brand-only services with shared infrastructure and business logic — including migrating legacy account data with zero loss by temporarily extending the schema rather than dropping unmapped fields.
 - **Drive CRM-led engagement and retention** through the Iterable integration (in-app + email) and a Snowplow Signals pipeline (early pilot deployment) building per-user behaviour profiles — powering targeted nudges based on real usage. My main focus for the last two years.
-- **Led the rewrite of CEP into a Turborepo monorepo** — brought the team up to speed via mobbing, then reviewed migrations for consistency across 10+ workspaces.
-- **Own platform reliability on Kubernetes** — including root-causing and fixing a deployment misconfiguration that let unhealthy releases pass as ready; production observability via Prometheus/Grafana with SLO tracking, where none existed before.
+- **Led engineering initiatives protecting platform velocity and reliability** — consolidated CEP's 10+ services into a unified monorepo to streamline delivery, and root-caused a deployment bug that risked silently dropping customer communications.
 - **Took AI-driven tools from proof-of-concept to production** in the Innovation Guild — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts; both shipped to real users.
 - _(Earlier tenure)_ Launched a subscriptions/micropayments platform and led the legacy migration, integrating an external payment provider (Kafka, Redis).
 

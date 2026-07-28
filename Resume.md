@@ -26,7 +26,7 @@ Joined as a Junior Engineer and grew into a mid-level engineer, owning platform-
 - **Own the CRM and messaging integration (Iterable)** behind in-app messaging and email campaigns — built in-house dismiss-state tracking and Zod-based schema validation to cover gaps in Iterable's own logic; my main focus for the last two years.
 - **Operate services on Kubernetes** — found and fixed a deployment misconfiguration letting unhealthy releases register as "ready"; also HPA tuning, graceful shutdown, and Helm charts.
 - **Build AI prototypes in the Innovation Guild** _(ongoing, periodic)_ — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts.
-- _(Earlier tenure)_ Launched a new subscriptions and micropayments platform and led the migration off the legacy system, integrating an external payment provider; Kafka for events, Redis for caching, and testing with Cypress/Selenium and Jest.
+- _(Earlier tenure)_ Launched a subscriptions/micropayments platform and led the legacy migration (Kafka, Redis, external payment provider); later built an internal A/B testing framework adopted company-wide, using it to turn a hardcoded 14-day free trial into a dynamic, journey-based length — boosting conversion ~40% and hitting an all-time monthly record for trial starts.
 
 _Stack: TypeScript, Node.js, GraphQL/Apollo, Kubernetes, Prometheus, Grafana, Kafka, Redis, Turborepo_
 

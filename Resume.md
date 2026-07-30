@@ -20,7 +20,7 @@ _2021 – Present · Remote (Spain) from 2023; previously London, UK_
 
 Joined as a Junior Engineer and grew into a mid-level engineer, owning platform-level work — first on E-Commerce, then on the Customer Engagement Platform (CEP).
 
-- **Architected multi-brand support**, replacing single-brand-only services with shared infrastructure and business logic — including migrating legacy account data with zero loss by temporarily extending the schema rather than dropping unmapped fields.
+- **Architected multi-brand support**, replacing brand-specific services with shared infrastructure and business logic — including migrating legacy account data with zero loss by temporarily extending the schema rather than dropping unmapped fields.
 - **Led the rewrite of CEP into a Turborepo monorepo** — mobbed with the team to establish the pattern, then reviewed migrations for consistency across 10+ workspaces; used Knip for dead-code detection to keep the result lean.
 - **Established production observability** — custom Prometheus histogram metrics, Grafana dashboards, and SLO tracking via histogram bucket ratios on Kubernetes, where no SLOs existed before.
 - **Own the CRM and messaging integration (Iterable)**, driving user engagement through in-app messaging and email campaigns; added Zod-based schema validation to guard against Iterable's permissive JSON payloads. My main focus for the last two years.

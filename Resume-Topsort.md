@@ -22,10 +22,10 @@ Joined as a Junior Engineer and grew into a mid-level engineer leading platform 
 
 - **Led an internal A/B testing framework**, adopted company-wide, to turn a hardcoded 14-day free trial into a dynamic, journey-based length — working with data science on user segmentation. Result: ~40% conversion boost and an all-time monthly record for free trial starts.
 - **Architected multi-brand support**, consolidating brand-specific services onto shared infrastructure and business logic — cutting service count significantly and letting new brands launch on the existing platform instead of a bespoke build, with zero data loss migrating legacy accounts.
-- **Drive CRM-led engagement and retention** through the Iterable integration (in-app + email) and a Snowplow Signals pipeline (early pilot deployment) building per-user behaviour profiles — powering targeted nudges based on real usage. My main focus for the last two years.
+- **Drive engagement and retention through CRM** (Iterable, in-app + email) and a Snowplow Signals pipeline (early pilot deployment) building per-user behaviour profiles — powering targeted nudges based on real usage. My main focus for the last two years.
 - **Drove engineering initiatives protecting platform velocity and reliability** — unified CEP's 10+ services into a single monorepo to streamline delivery, and root-caused a deployment bug that risked silently dropping customer communications.
 - **Took AI-driven tools from proof-of-concept to production** in the Innovation Guild — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts; both shipped to real users.
-- _(Earlier tenure)_ Launched a subscriptions/micropayments platform and led the legacy migration, integrating an external payment provider (Kafka, Redis).
+- _(Earlier tenure)_ Launched a subscriptions/micropayments platform and oversaw the legacy migration, integrating an external payment provider (Kafka, Redis).
 
 _Stack: TypeScript, Node.js, GraphQL/Apollo, REST integrations (Iterable, Snowplow, payment providers), Kafka, Redis, Kubernetes, Turborepo_
 

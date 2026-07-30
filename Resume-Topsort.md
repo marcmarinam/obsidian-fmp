@@ -8,7 +8,7 @@ Barcelona, Spain (Remote) · marc.marina.miravitlles@gmail.com · +34 648 439 64
 
 ## Summary
 
-Backend-leaning engineer with ~5 years shipping production integrations — Iterable, Snowplow, external payment providers — and leading initiatives with direct commercial impact, including an experimentation program that lifted conversion ~40% and hit an all-time monthly record for free trial starts. I partner closely with product and data teams to turn ambiguous, cross-team problems into measurable business outcomes.
+Backend-leaning full-stack engineer with ~5 years building and operating production Node.js/TypeScript services. I work end-to-end across GraphQL & REST APIs, Kubernetes, and Prometheus/Grafana observability, and recently led the multi-brand rebuild of my team's platform. I do my best work on ambiguous, cross-team problems that need making reliable.
 
 ---
 

@@ -31,7 +31,7 @@ _Stack: TypeScript, Node.js, GraphQL/Apollo, Kubernetes, Prometheus, Grafana, Ka
 
 ### Earlier experience
 
-Full-stack web development at **GJQ Holdings** (Laravel, MySQL, Git; 2018–2019) and a cross-platform productivity app built on **Node/Express + MongoDB** with an Android client (2020).
+Full-stack web development at **GJQ Holdings** (Laravel, MySQL, Git; 2018–2019) and an Android productivity app backed by **Node/Express + MongoDB** (2020).
 
 ---
 

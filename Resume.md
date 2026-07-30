@@ -21,11 +21,9 @@ _2021 – Present · Remote (Spain) from 2023; previously London, UK_
 Joined as a Junior Engineer and grew into a mid-level engineer, owning platform-level work — first on E-Commerce, then on the Customer Engagement Platform (CEP).
 
 - **Architected multi-brand support**, consolidating brand-specific services onto shared infrastructure and business logic — cutting service count significantly and letting new brands launch on the existing platform instead of a bespoke build, with zero data loss migrating legacy accounts.
-- **Led the rewrite of CEP into a Turborepo monorepo** — mobbed with the team to establish the pattern, then reviewed migrations for consistency across 10+ workspaces; used Knip for dead-code detection to keep the result lean.
-- **Established production observability** — custom Prometheus histogram metrics, Grafana dashboards, and SLO tracking via histogram bucket ratios on Kubernetes, where no SLOs existed before.
+- **Led the rewrite of CEP into a Turborepo monorepo**, establishing the team's patterns and reviewing migrations for consistency across 10+ workspaces — also where I built out Prometheus/Grafana observability on Kubernetes, where none existed before.
 - **Own the CRM and messaging integration (Iterable)**, driving user engagement through in-app messaging and email campaigns; added Zod-based schema validation to guard against Iterable's permissive JSON payloads. My main focus for the last two years.
 - **Run a Snowplow Signals pipeline** (an early pilot deployment) building per-user behaviour profiles from site activity — driving targeted in-app and email nudges based on what each user actually engages with.
-- **Operate services on Kubernetes** — found and fixed a deployment misconfiguration letting unhealthy releases register as "ready"; also HPA tuning, graceful shutdown, and Helm charts.
 - **Build AI prototypes in the Innovation Guild** _(ongoing, periodic)_ — an AI summary generator over newspaper search results with OCR-linked source text, and a similar summarizer for scanned historical transcripts.
 - _(Earlier tenure)_ Launched a subscriptions/micropayments platform and led the legacy migration (Kafka, Redis, external payment provider); later built an internal A/B testing framework adopted company-wide, using it to turn a hardcoded 14-day free trial into a dynamic, journey-based length — boosting conversion ~40% and hitting an all-time monthly record for trial starts.
 
